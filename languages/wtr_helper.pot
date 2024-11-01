@@ -1,0 +1,2010 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Writer Helper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-01 19:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: includes/pages/page_parameters.php:43
+#: includes/pages/page_settings_tab1.php:35
+msgid " \tA full textual representation of a month, such as January or March"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:177
+msgid "*Authors and editors must be registered Writer Helper Users."
+msgstr ""
+
+#: includes/pages/page_parameters.php:79
+#: includes/pages/page_settings_tab1.php:71
+msgid "12-hour format of an hour with leading zeros"
+msgstr ""
+
+#: includes/pages/page_parameters.php:77
+#: includes/pages/page_settings_tab1.php:69
+msgid "12-hour format of an hour without leading zeros"
+msgstr ""
+
+#: includes/pages/page_parameters.php:80
+#: includes/pages/page_settings_tab1.php:72
+msgid "24-hour format of an hour with leading zeros"
+msgstr ""
+
+#: includes/pages/page_parameters.php:78
+#: includes/pages/page_settings_tab1.php:70
+msgid "24-hour format of an hour without leading zeros"
+msgstr ""
+
+#: includes/pages/page_parameters.php:45
+#: includes/pages/page_settings_tab1.php:37
+msgid "A full numeric representation of a year, 4 digits"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:109
+msgid "A new version is up"
+msgstr ""
+
+#: includes/pages/page_index.php:47
+msgid "A new WordPress media has been created"
+msgstr ""
+
+#: includes/functions/module_download.php:28
+msgid "A PHP extension has stopped the download"
+msgstr ""
+
+#: includes/pages/page_parameters.php:42
+#: includes/pages/page_settings_tab1.php:34
+msgid "A short textual representation of a month, three letters"
+msgstr ""
+
+#: includes/functions/module_download.php:22
+msgid "A temporary directory is missing"
+msgstr ""
+
+#: includes/pages/page_parameters.php:46
+#: includes/pages/page_settings_tab1.php:38
+msgid "A two digit representation of a year"
+msgstr ""
+
+#: includes/pages/page_index.php:53
+msgid "About chapters and scenes statuses"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:12
+msgid "Action and adventure"
+msgstr ""
+
+#: includes/pages/page_parameters.php:100
+#: includes/pages/page_settings_tab2.php:134
+msgid "Add"
+msgstr ""
+
+#: includes/pages/page_users_tab1.php:2
+msgid "Add an administrator to Writer Helper"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:839
+#: includes/functions/ajax_functions.php:874
+msgid "Add author"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:134
+msgid "Add author*"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:924
+#: includes/functions/ajax_functions.php:959
+msgid "Add editor"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:173
+msgid "Add editor*"
+msgstr ""
+
+#: includes/functions/scene_functions.php:58
+msgid "Add links to next scenes"
+msgstr ""
+
+#: includes/functions/scene_functions.php:119
+msgid "Add this new link"
+msgstr ""
+
+#: includes/pages/page_users.php:37
+msgid "Administrators"
+msgstr ""
+
+#: includes/functions/book_functions.php:13
+#: includes/pages/page_book_tab5.php:24
+msgid "All"
+msgstr ""
+
+#: includes/pages/page_communities.php:35
+msgid "All communities"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:13
+msgid "Alternate history"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1139
+msgid "An error occured while publishing your book."
+msgstr ""
+
+#: includes/functions/book_functions.php:595
+msgid "Anthology of books"
+msgstr ""
+
+#: includes/pages/page_settings_tab2.php:114
+msgid "Apply default settings in all books"
+msgstr ""
+
+#: includes/pages/page_settings.php:63
+msgid "Archetyps"
+msgstr ""
+
+#: includes/classes/class_status.php:346
+msgid "Archive"
+msgstr ""
+
+#: includes/classes/class_status.php:351
+msgid "Archive & unpublish"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:103
+msgid "Author"
+msgstr ""
+
+#: includes/functions/book_functions.php:304
+#: includes/functions/book_functions.php:371
+msgid "Author(s)"
+msgstr ""
+
+#: includes/functions/book_functions.php:71
+msgid "Authors"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:70
+msgid "Authors can use Bookworlds"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:97
+msgid "Authors can use Statistics"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:89
+msgid "Authors can use Storyboard"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:105
+msgid "Authors can use To Do List"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:55
+msgid "Authors default settings"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:13
+msgid "Autobiography"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:14
+msgid "Biography"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:101
+msgid "Book"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:314
+#: includes/widgets/author_stats_widgets.php:19
+#: includes/widgets/author_stats_widgets.php:36
+msgid "book"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:23 includes/pages/page_book_tab1.php:316
+msgid "Book cover"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:105
+msgid "Book Customised status"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:86
+#: includes/pages/page_settings_tab2.php:87
+msgid "Book Ending Label"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:49
+#: includes/pages/page_settings_tab2.php:51
+msgid "Book info to display via shortcodes"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:32
+#: includes/widgets/book_shortcodes.php:75 includes/widgets/book_widgets.php:33
+#: includes/widgets/book_widgets.php:161
+#, php-format
+msgid "Book not found with id %s"
+msgstr ""
+
+#: includes/functions/book_functions.php:747 includes/pages/page_print.php:13
+#, php-format
+msgid "Book reference not found : %s"
+msgstr ""
+
+#: includes/pages/page_book.php:91
+msgid "Book Settings"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:784
+#, php-format
+msgid "Book status unknown : %s"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:282
+msgid "Book title"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:83
+msgid "Book type"
+msgstr ""
+
+#: includes/pages/page_parameters.php:92
+#: includes/pages/page_settings_tab2.php:125
+msgid "Book types"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:256
+msgid "Book unique identifier"
+msgstr ""
+
+#: includes/pages/page_book.php:97
+msgid "Book Users Settings"
+msgstr ""
+
+#: includes/pages/page_newbook.php:46
+msgid "Book where you are the hero"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:20
+#: includes/pages/page_settings_tab2.php:22
+msgid "Book/Chapter/Scene statuses"
+msgstr ""
+
+#: includes/pages/page_settings.php:45
+msgid "Books"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:312
+#: includes/widgets/author_stats_widgets.php:19
+#: includes/widgets/author_stats_widgets.php:36
+msgid "books"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:288
+msgid "Books are related to this type"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:61
+msgid "Books per author"
+msgstr ""
+
+#: includes/pages/page_settings.php:51
+msgid "Books Users"
+msgstr ""
+
+#: writer-helper.php:201
+msgid "Bookworlds"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:78
+msgid "Bookworlds per author"
+msgstr ""
+
+#: includes/functions/book_functions.php:285
+#: includes/functions/book_functions.php:414
+msgid "Buy here"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:38
+msgid "by"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1031
+msgid "Cancel"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:105
+#: includes/functions/ajax_functions.php:113
+#: includes/functions/module_download.php:94
+#: includes/functions/module_download.php:102
+#, php-format
+msgid "Cannot create directory %s"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:125
+#, php-format
+msgid "Cannot create file %s"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:156
+#, php-format
+msgid "Cannot delete file %s"
+msgstr ""
+
+#: includes/functions/module_download.php:138
+#, php-format
+msgid "Cannot download file %s"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:140
+#: includes/functions/module_download.php:117
+#, php-format
+msgid "Cannot open file %s"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:146
+#: includes/functions/module_download.php:123
+#, php-format
+msgid "Cannot unzip file %s to directory %s"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:130
+#, php-format
+msgid "Cannot updload file %s"
+msgstr ""
+
+#: includes/pages/page_parameters.php:12
+msgid "Categories"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:242
+msgid "Category Id incorrect"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:235
+msgid "Category Id not found"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:203
+msgid "Change"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:38
+msgid "Change cover"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:829
+#: includes/functions/ajax_functions.php:864
+#: includes/functions/ajax_functions.php:914
+#: includes/functions/ajax_functions.php:949
+#: includes/pages/page_book_tab1.php:117 includes/pages/page_book_tab1.php:156
+msgid "Change name"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:192
+msgid "Change publication date"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:790
+msgid "Change status of chapters or/and scenes individually."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1322
+msgid "Change status of scenes individually."
+msgstr ""
+
+#: includes/pages/page_scene.php:153 includes/pages/wtrh_struct_page.php:12
+msgid "Changes not saved"
+msgstr ""
+
+#: includes/classes/class_chapter.php:163
+#: includes/functions/chapter_functions.php:64
+#: includes/widgets/books_widgets.php:131
+msgid "Chapter"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:27
+msgid "chapter"
+msgstr ""
+
+#: includes/pages/page_chapter.php:13 includes/pages/page_scene.php:62
+msgid "Chapter n&deg;"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1316
+#, php-format
+msgid "Chapter status unknown : %s"
+msgstr ""
+
+#: includes/pages/page_chapter.php:28
+msgid "Chapter title"
+msgstr ""
+
+#: includes/pages/page_book_tab2.php:6 includes/pages/page_scene.php:105
+msgid "Chapters"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:27
+msgid "chapters"
+msgstr ""
+
+#: includes/pages/page_book.php:79
+msgid "Chapters List"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:14
+msgid "Chick lit"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:15
+msgid "Children's literature"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:58 includes/widgets/book_widgets.php:187
+msgid "Choose a book"
+msgstr ""
+
+#. Author of the plugin
+msgid "Clarisse K."
+msgstr ""
+
+#: includes/pages/page_index.php:30
+msgid "Click on Create a new book button"
+msgstr ""
+
+#: includes/pages/page_index.php:46
+msgid "Click on Export to EPUB button"
+msgstr ""
+
+#: includes/pages/page_index.php:29 includes/pages/page_index.php:45
+msgid "Click on My Books menu"
+msgstr ""
+
+#: includes/classes/class_book.php:243 includes/classes/class_book.php:339
+#: includes/widgets/books_widgets.php:160
+#: includes/widgets/books_widgets.php:161
+msgid "Coming soon"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:16
+msgid "Coming-of-age"
+msgstr ""
+
+#: writer-helper.php:213
+msgid "Communities"
+msgstr ""
+
+#: includes/pages/wtrh_struct_page.php:135
+#, php-format
+msgid "Contact one of your website Writer Helper administrators : %s"
+msgstr ""
+
+#: includes/functions/book_functions.php:756 includes/pages/page_print.php:23
+msgid "Cover"
+msgstr ""
+
+#: includes/functions/book_functions.php:624
+#, php-format
+msgid "Cover of %s"
+msgstr ""
+
+#: includes/functions/book_functions.php:38
+msgid "Create a new book"
+msgstr ""
+
+#: includes/functions/chapter_functions.php:33
+msgid "Create a new chapter"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:236
+msgid "Create a new scene"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1097
+#: includes/pages/page_book_tab1.php:63
+msgid "Create a post for your book"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1390
+#: includes/functions/chapter_functions.php:82
+#: includes/pages/page_chapter.php:40
+msgid "Create a post for your chapter"
+msgstr ""
+
+#: includes/pages/page_index.php:32
+msgid "Create as many chapters as necessary"
+msgstr ""
+
+#: includes/functions/chapter_functions.php:38
+msgid "Create chapters and scenes using the Storyboard"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:327
+msgid "Create New Scene"
+msgstr ""
+
+#: includes/pages/page_index.php:23
+msgid "Create your first book"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:16
+msgid "Crime"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:250
+msgid "Data saved"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:4
+msgid "Date and Time Formats"
+msgstr ""
+
+#: includes/pages/page_parameters.php:17
+#: includes/pages/page_settings_tab1.php:9
+msgid "Date format"
+msgstr ""
+
+#: includes/pages/page_parameters.php:40
+#: includes/pages/page_settings_tab1.php:32
+msgid "Day of the month without leading zeros"
+msgstr ""
+
+#: includes/pages/page_parameters.php:39
+#: includes/pages/page_settings_tab1.php:31
+msgid "Day of the month, 2 digits with leading zeros"
+msgstr ""
+
+#: includes/pages/page_settings_tab2.php:16
+msgid "Default Books Settings"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:212
+msgid "Default Books Settings not saved"
+msgstr ""
+
+#: includes/classes/class_status.php:361
+msgid "Defenitive Delete"
+msgstr ""
+
+#: includes/classes/class_status.php:356
+#: includes/functions/ajax_functions.php:322
+#: includes/functions/ajax_functions.php:487
+#: includes/functions/scene_functions.php:88
+#: includes/pages/page_book_tab1.php:121 includes/pages/page_book_tab1.php:160
+#: includes/pages/page_users_tab1.php:41
+msgid "Delete"
+msgstr ""
+
+#: includes/pages/wtrh_struct_page.php:141
+msgid ""
+"Delete the plugin. Create a WordPress adminstrator user. Install the plugin "
+"again."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1076
+#: includes/pages/page_book_tab1.php:73
+msgid "Delete the post containing your book"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1369
+#: includes/functions/chapter_functions.php:91
+#: includes/pages/page_chapter.php:50
+msgid "Delete the post containing your chapter"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:15
+msgid "Diary"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:335
+msgid "Display a field to search published books"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:263
+msgid "Display a search book field"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:14
+msgid "Display all books"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:76
+msgid "Display lastest publications"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:213
+msgid "Display the info of the book when a chapter's page is displayed"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:141
+msgid "Display the info of the selected book"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:84
+msgid "Display the summary of the book when a chapter's page is displayed"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:14
+msgid "Display the summary of the selected book"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:17
+msgid "Drama"
+msgstr ""
+
+#: includes/classes/class_status.php:311
+msgid "Edit"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:129
+msgid "Edit all books"
+msgstr ""
+
+#: includes/pages/page_scene.php:198
+msgid "Editing notes"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:141
+msgid "Editor"
+msgstr ""
+
+#: includes/functions/book_functions.php:314
+#: includes/functions/book_functions.php:397
+msgid "Editor(s)"
+msgstr ""
+
+#: includes/functions/book_functions.php:80 includes/pages/page_users.php:49
+msgid "Editors"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:137
+msgid "Editors can use Statistics"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:145
+msgid "Editors can use To Do List"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:123
+msgid "Editors default settings"
+msgstr ""
+
+#: includes/classes/class_status.php:306
+msgid "End drafting"
+msgstr ""
+
+#: includes/classes/class_status.php:314
+msgid "End editing"
+msgstr ""
+
+#: includes/functions/book_functions.php:658
+#, php-format
+msgid "End of %s"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:35
+msgid "Enter -1 if all chapters are free"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:197
+#, php-format
+msgid "Enter a date (date format is %s)"
+msgstr ""
+
+#: includes/pages/page_parameters.php:37
+#: includes/pages/page_settings_tab1.php:29
+msgid "Enter a date format using the following characters."
+msgstr ""
+
+#: includes/functions/cmn_functions.php:210
+#, php-format
+msgid "Enter a date of publication (format %s)"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:33
+msgid "Enter a number (\"All\" by default)"
+msgstr ""
+
+#: includes/pages/page_parameters.php:73
+#: includes/pages/page_settings_tab1.php:65
+msgid "Enter a time format using the following characters."
+msgstr ""
+
+#: includes/widgets/books_widgets.php:186
+msgid "Enter a title to display before the publications"
+msgstr ""
+
+#: includes/pages/page_users_tab1.php:6
+msgid "Enter an administrator name"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:837
+#: includes/functions/ajax_functions.php:872
+#: includes/functions/ajax_functions.php:922
+#: includes/functions/ajax_functions.php:957
+#: includes/pages/page_book_tab1.php:131 includes/pages/page_book_tab1.php:170
+msgid "Enter an author name"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:190
+msgid "Enter the number of publications to display"
+msgstr ""
+
+#: includes/pages/page_index.php:31
+msgid "Enter your book's info"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:820
+msgid "Error add book author"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:905
+msgid "Error add book editor"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1534
+msgid "Error addLinkedScene"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:814
+#: includes/functions/ajax_functions.php:849
+#: includes/functions/ajax_functions.php:881
+msgid "Error author id not found"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:648
+msgid "Error book add author"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:651
+msgid "Error book add editor"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:642
+msgid "Error book create"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:761
+msgid "Error book delete"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:658
+#: includes/functions/ajax_functions.php:697
+#: includes/functions/ajax_functions.php:731
+#: includes/functions/ajax_functions.php:743
+#: includes/functions/ajax_functions.php:756
+#: includes/functions/ajax_functions.php:766
+#: includes/functions/ajax_functions.php:795
+#: includes/functions/ajax_functions.php:811
+#: includes/functions/ajax_functions.php:846
+#: includes/functions/ajax_functions.php:896
+#: includes/functions/ajax_functions.php:931
+#: includes/functions/ajax_functions.php:1195
+#: includes/functions/ajax_functions.php:1434
+#: includes/functions/ajax_functions.php:1570
+msgid "Error book reference not found"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:994
+#: includes/functions/ajax_functions.php:1037
+#: includes/functions/ajax_functions.php:1051
+#: includes/functions/ajax_functions.php:1061
+#: includes/functions/ajax_functions.php:1086
+#: includes/functions/ajax_functions.php:1131
+#: includes/functions/ajax_functions.php:1146
+msgid "Error book reference not given"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:692
+msgid "Error book udpate"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1208
+msgid "Error chapter create"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1288
+msgid "Error chapter delete"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1228
+#: includes/functions/ajax_functions.php:1283
+#: includes/functions/ajax_functions.php:1299
+#: includes/functions/ajax_functions.php:1329
+msgid "Error chapter reference not found"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1354
+#: includes/functions/ajax_functions.php:1379
+msgid "Error chapter reference not given"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1244
+msgid "Error chapter udpate"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:855
+msgid "Error delete book author"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:940
+msgid "Error delete book editor"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1562
+msgid "Error deleteLinkedScene"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:899
+#: includes/functions/ajax_functions.php:934
+#: includes/functions/ajax_functions.php:966
+msgid "Error editor id not found"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1291
+#: includes/functions/ajax_functions.php:1448
+#: includes/functions/ajax_functions.php:1492
+msgid "Error refresh numbers"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1219
+#: includes/functions/ajax_functions.php:1443
+msgid "Error scene create"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1489
+msgid "Error scene delete"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1456
+#: includes/functions/ajax_functions.php:1484
+#: includes/functions/ajax_functions.php:1498
+#: includes/functions/ajax_functions.php:1527
+#: includes/functions/ajax_functions.php:1541
+#: includes/functions/ajax_functions.php:1555
+msgid "Error scene reference not found"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1479
+msgid "Error scene udpate"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1520
+msgid "Error status update"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:888
+msgid "Error update author name"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:973
+msgid "Error update editor name"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1156
+msgid "Error update publication date"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1548
+msgid "Error updateLinkedScene"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:352
+#: includes/functions/ajax_functions.php:366
+#: includes/functions/ajax_functions.php:385
+#: includes/functions/ajax_functions.php:403
+#: includes/functions/ajax_functions.php:421
+#: includes/functions/ajax_functions.php:440
+msgid "Error user id not found"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:358
+msgid "Error while adding administrator user"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1067
+#: includes/functions/ajax_functions.php:1360
+msgid "Error while creating the new post."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:220
+msgid "Error while deleting specific books settings"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1092
+#: includes/functions/ajax_functions.php:1385
+msgid "Error while deleting the post."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:446
+msgid "Error while deleting user"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1081
+#: includes/functions/ajax_functions.php:1102
+msgid "Error while saving book"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:248
+#, php-format
+msgid "Error while saving category %s"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1374
+#: includes/functions/ajax_functions.php:1395
+msgid "Error while saving chapter"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:377
+#: includes/functions/ajax_functions.php:395
+#: includes/functions/ajax_functions.php:413
+#: includes/functions/ajax_functions.php:431
+msgid "Error while saving user"
+msgstr ""
+
+#: includes/functions/module_download.php:25
+msgid "Error while writing file on disk"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:92
+msgid "Export all books in one EPUB file"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:67
+#: includes/functions/buttons_functions.php:94
+msgid "Export To EPUB"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:17
+msgid "Fairytale"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:18
+msgid "Fantasy"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:97
+#, php-format
+msgid "File %s not found"
+msgstr ""
+
+#: includes/functions/module_download.php:111
+msgid "File downloaded"
+msgstr ""
+
+#: includes/functions/module_download.php:16
+msgid "File partially downloaded"
+msgstr ""
+
+#: includes/functions/module_download.php:13
+msgid "File size is higher than form limit"
+msgstr ""
+
+#: includes/functions/module_download.php:10
+msgid "File size is higher than PHP limit"
+msgstr ""
+
+#: includes/pages/page_index.php:10
+msgid "For more details, read our FAQ at"
+msgstr ""
+
+#: includes/classes/class_book.php:337
+msgid "free"
+msgstr ""
+
+#: includes/functions/book_functions.php:64 includes/pages/page_book.php:50
+msgid "Game Book"
+msgstr ""
+
+#: includes/pages/page_newbook.php:44
+msgid "Game book"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:21
+msgid "game book"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:21
+msgid "game books"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:98
+msgid "GameBook"
+msgstr ""
+
+#: includes/pages/page_book.php:73 includes/pages/page_settings.php:39
+msgid "General"
+msgstr ""
+
+#: includes/pages/page_index.php:39
+msgid "Generate an EPUB file"
+msgstr ""
+
+#: includes/pages/page_index.php:18
+msgid "Getting started"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:164
+#: includes/pages/goto_buttons.php:23
+msgid "Go Back"
+msgstr ""
+
+#: includes/classes/class_chapter.php:214
+msgid "Go back to the beginning"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:115
+#: includes/pages/goto_buttons.php:13
+msgid "Go to Book"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:140
+msgid "Go To Bookworld"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:24
+msgid "Go to Chapter"
+msgstr ""
+
+#: includes/classes/class_chapter.php:218
+#, php-format
+msgid "Go to chapter %s"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:147
+msgid "Go To Characters"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:59
+#: includes/functions/buttons_functions.php:85
+msgid "Go To Epub"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:154
+msgid "Go To Stories"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:127
+msgid "Go to Storyboard"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:52
+msgid "Go To WordPress Post"
+msgstr ""
+
+#: includes/pages/page_communities.php:41
+msgid "Guests"
+msgstr ""
+
+#: includes/classes/class_book.php:343 includes/widgets/books_widgets.php:45
+#: includes/widgets/books_widgets.php:112
+msgid "Hidden"
+msgstr ""
+
+#: includes/classes/class_status.php:331
+msgid "Hide"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:19
+msgid "Historical fiction"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:18
+msgid "History"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:19
+msgid "Horror"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:30
+msgid "How many free Chapters"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://clarissek.fr"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://writerhelper.clarissek.fr"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:20
+msgid "including"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:114
+msgid "Install new version"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:125
+msgid "Install Writer Helper add-ons on your site"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1152
+#, php-format
+msgid "Invalid date : %s"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:254
+msgid "ISBN"
+msgstr ""
+
+#: includes/pages/page_index.php:59
+msgid "It's writing time."
+msgstr ""
+
+#: includes/pages/page_parameters.php:42
+#: includes/pages/page_settings_tab1.php:34
+msgid "Jan through Dec"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:90 includes/widgets/books_widgets.php:174
+#: includes/widgets/books_widgets.php:183
+msgid "Lastest publications"
+msgstr ""
+
+#: includes/functions/book_functions.php:292
+#: includes/functions/book_functions.php:421
+msgid "Learn more"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:30
+msgid "Library"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:130
+msgid "Load & Install add-on"
+msgstr ""
+
+#: includes/pages/page_parameters.php:75
+#: includes/pages/page_settings_tab1.php:67
+msgid "Lowercase Ante meridiem and Post meridiem"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:20
+msgid "Memoir"
+msgstr ""
+
+#: includes/pages/page_parameters.php:81
+#: includes/pages/page_settings_tab1.php:73
+msgid "Minutes with leading zeros"
+msgstr ""
+
+#: includes/functions/book_functions.php:593
+#: includes/functions/book_functions.php:609
+msgid "Miscellaneous"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:289
+msgid "Modify or delete books first"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:150
+#: includes/functions/module_download.php:126
+msgid "Module installed"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:26
+#, php-format
+msgid "More than one book found with title <%s>"
+msgstr ""
+
+#: writer-helper.php:198 includes/pages/page_books.php:1
+msgid "My Books"
+msgstr ""
+
+#: includes/pages/page_bookworlds.php:6
+msgid "My Bookworlds"
+msgstr ""
+
+#: includes/pages/page_stats.php:1
+msgid "My stats"
+msgstr ""
+
+#: writer-helper.php:204 includes/pages/page_todolist.php:1
+msgid "My To Do List"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:20
+msgid "Mystery"
+msgstr ""
+
+#: includes/pages/page_newbook.php:12
+msgid "New book"
+msgstr ""
+
+#: includes/classes/class_booksettings.php:236
+msgid "Next chapter"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:77
+#: includes/pages/page_settings_tab2.php:78
+msgid "Next Chapter Label"
+msgstr ""
+
+#: includes/classes/class_booksettings.php:241
+#: includes/widgets/book_shortcodes.php:214
+msgid "Next chapter not yet published"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:95
+#: includes/pages/page_settings_tab2.php:96
+msgid "Next Chapter Unpublished Label"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:102
+msgid "No add-on downloaded"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:24
+#, php-format
+msgid "No book found with title %s"
+msgstr ""
+
+#: includes/functions/book_functions.php:42
+msgid "No Book found!"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:91
+msgid "No chapter found"
+msgstr ""
+
+#: includes/functions/chapter_functions.php:44
+msgid "No Chapter yet !"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:339
+msgid "No cover"
+msgstr ""
+
+#: includes/functions/book_functions.php:232
+msgid "No Cover for this book"
+msgstr ""
+
+#: includes/pages/page_scene.php:156
+msgid "No description"
+msgstr ""
+
+#: includes/functions/module_download.php:19
+msgid "No file downloaded"
+msgstr ""
+
+#: includes/functions/module_download.php:39
+msgid "No file selected"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:36
+msgid "No HTML div set"
+msgstr ""
+
+#: includes/functions/scene_functions.php:122
+msgid "No more different scene to add"
+msgstr ""
+
+#: includes/pages/page_scene.php:127
+msgid "No scene created"
+msgstr ""
+
+#: includes/pages/page_scene.php:89
+msgid "No storyboard for this book"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:597
+msgid "No user found"
+msgstr ""
+
+#: includes/functions/book_functions.php:17
+msgid "None"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:789
+msgid "Not all chapters/scenes are at the same status."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1321
+msgid "Not all scenes are at the same status."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:287
+msgid "Not deleted"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:247
+msgid "Notation URL"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:90
+#: includes/functions/ajax_functions.php:98
+#: includes/functions/ajax_functions.php:106
+#: includes/functions/ajax_functions.php:114
+#: includes/functions/ajax_functions.php:126
+#: includes/functions/ajax_functions.php:131
+#: includes/functions/ajax_functions.php:141
+#: includes/functions/ajax_functions.php:147
+#: includes/functions/ajax_functions.php:157
+#: includes/functions/module_download.php:62
+#: includes/functions/module_download.php:87
+#: includes/functions/module_download.php:95
+#: includes/functions/module_download.php:103
+#: includes/functions/module_download.php:118
+#: includes/functions/module_download.php:124
+#: includes/functions/module_download.php:139
+msgid "Nothing has been installed"
+msgstr ""
+
+#: includes/pages/page_index.php:61
+msgid "Notify the end of drafting."
+msgstr ""
+
+#: includes/pages/page_index.php:63
+msgid "Notify the end of editing."
+msgstr ""
+
+#: includes/pages/page_index.php:64
+msgid "Notify your publish intent."
+msgstr ""
+
+#: includes/pages/page_parameters.php:41
+#: includes/pages/page_settings_tab1.php:33
+msgid "Numeric representation of a month, with leading zeros"
+msgstr ""
+
+#: includes/pages/page_parameters.php:44
+#: includes/pages/page_settings_tab1.php:36
+msgid "Numeric representation of a month, without leading zeros"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:227
+msgid "Open"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1072
+#: includes/functions/ajax_functions.php:1365
+#: includes/functions/chapter_functions.php:87
+#: includes/pages/page_book_tab1.php:69 includes/pages/page_chapter.php:46
+msgid "Open post"
+msgstr ""
+
+#: includes/classes/class_book.php:449
+msgid "Opening file failed"
+msgstr ""
+
+#: includes/pages/page_parameters.php:45 includes/pages/page_parameters.php:46
+#: includes/pages/page_parameters.php:75 includes/pages/page_parameters.php:76
+#: includes/pages/page_settings_tab1.php:37
+#: includes/pages/page_settings_tab1.php:38
+#: includes/pages/page_settings_tab1.php:67
+#: includes/pages/page_settings_tab1.php:68
+msgid "or"
+msgstr ""
+
+#: includes/pages/page_parameters.php:6
+msgid "Parameters"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:21
+msgid "Poetry"
+msgstr ""
+
+#: includes/functions/book_functions.php:15
+msgid "Premium readers"
+msgstr ""
+
+#: includes/classes/class_book.php:341 includes/classes/class_status.php:336
+#: includes/widgets/books_widgets.php:43 includes/widgets/books_widgets.php:110
+msgid "Preview"
+msgstr ""
+
+#: includes/classes/class_booksettings.php:237
+msgid "Previous chapter"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:81
+#: includes/pages/page_settings_tab2.php:82
+msgid "Previous Chapter Label"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:198
+msgid "Previous chapter not yet published"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:74
+msgid "Print"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:240
+msgid "Promotion URL"
+msgstr ""
+
+#: includes/pages/page_index.php:62
+msgid "Proofread your scenes."
+msgstr ""
+
+#: includes/functions/book_functions.php:91
+#: includes/functions/book_functions.php:267
+#: includes/functions/book_functions.php:407
+#: includes/pages/page_book_tab1.php:184
+msgid "Publication date"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1153
+msgid "Publication date not updated"
+msgstr ""
+
+#: includes/classes/class_status.php:341
+msgid "Publish"
+msgstr ""
+
+#: includes/pages/page_scene.php:179
+msgid "Quick scene description"
+msgstr ""
+
+#: includes/pages/page_scene.php:154
+msgid "Quit without save"
+msgstr ""
+
+#: includes/pages/wtrh_struct_page.php:13
+msgid "Quit without save?"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:90
+#: includes/pages/page_settings_tab2.php:91
+msgid "Read more Label"
+msgstr ""
+
+#: includes/pages/page_users.php:55
+msgid "Readers"
+msgstr ""
+
+#: includes/functions/book_functions.php:299
+#: includes/functions/book_functions.php:428
+msgid "Readers reviews"
+msgstr ""
+
+#: includes/functions/book_functions.php:14
+msgid "Registered readers"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:42
+msgid "Remove this cover"
+msgstr ""
+
+#: includes/pages/page_settings_tab2.php:112
+msgid "Replace specifc settings in all your books by default settings"
+msgstr ""
+
+#: includes/functions/book_functions.php:107
+#: includes/functions/book_functions.php:325
+#: includes/functions/book_functions.php:772
+#: includes/pages/page_book_tab1.php:223 includes/pages/page_newbook.php:62
+#: includes/pages/page_print.php:39
+msgid "Resume"
+msgstr ""
+
+#: includes/functions/book_functions.php:634
+#, php-format
+msgid "Resume of %s"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:476
+#: includes/pages/page_users_tab1.php:30
+msgid "Role"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:21
+msgid "Romance"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:233
+msgid "Sale URL"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1028
+#: includes/functions/buttons_functions.php:319
+#: includes/functions/scene_functions.php:85
+#: includes/pages/page_parameters.php:28 includes/pages/page_parameters.php:64
+#: includes/pages/page_settings_tab1.php:20
+#: includes/pages/page_settings_tab1.php:56
+#: includes/pages/page_settings_tab3.php:112
+#: includes/pages/page_settings_tab3.php:152
+msgid "Save"
+msgstr ""
+
+#: includes/pages/page_newbook.php:77
+msgid "Save & Go to Book"
+msgstr ""
+
+#: includes/pages/page_newbook.php:84
+msgid "Save & Go to Scene"
+msgstr ""
+
+#: includes/pages/page_newbook.php:98
+msgid "Save & Go to Storyboard"
+msgstr ""
+
+#: includes/pages/page_settings_tab2.php:107
+msgid "Save parameters"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:340
+msgid "Save settings"
+msgstr ""
+
+#: includes/functions/scene_functions.php:30
+#: includes/functions/scene_functions.php:73
+#: includes/functions/scene_functions.php:110
+#: includes/functions/scene_functions.php:233
+msgid "Scene"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:42
+msgid "scene"
+msgstr ""
+
+#: includes/pages/page_scene.php:63
+msgid "Scene n&deg;"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1515
+#, php-format
+msgid "Scene status unknown : %s"
+msgstr ""
+
+#: includes/pages/page_scene.php:185
+msgid "Scene Text"
+msgstr ""
+
+#: includes/pages/page_chapter.php:73
+msgid "Scenes"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:42
+msgid "scenes"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:22
+msgid "Science fiction"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:284
+msgid "Search"
+msgstr ""
+
+#: includes/pages/page_books.php:6
+msgid "Search by status"
+msgstr ""
+
+#: includes/pages/page_books.php:3
+msgid "Search by title"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:310
+msgid "Search results"
+msgstr ""
+
+#: js/wtrh_jointjs_scenes.js.php:359
+msgid "See/Refresh the graph of scenes"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:301
+msgid "Select or Upload your Cover"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1011
+msgid "Select statuses"
+msgstr ""
+
+#: includes/functions/book_functions.php:16
+msgid "Selected readers"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:22
+msgid "Self help"
+msgstr ""
+
+#: writer-helper.php:216 includes/pages/page_settings.php:27
+msgid "Settings"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:23
+msgid "Short story"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:31
+msgid "Shortcode"
+msgstr ""
+
+#: includes/pages/page_chapter.php:62
+msgid "Show number"
+msgstr ""
+
+#: includes/pages/page_chapter.php:69
+msgid "Show title"
+msgstr ""
+
+#: writer-helper.php:195
+msgid "Starting with WH"
+msgstr ""
+
+#: writer-helper.php:207
+msgid "Statistics"
+msgstr ""
+
+#: includes/classes/class_status.php:445
+msgid "Status unknown"
+msgstr ""
+
+#: includes/classes/class_status.php:532
+#, php-format
+msgid "Status unknown : %s"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:31
+msgid "Statuses of your books"
+msgstr ""
+
+#: includes/pages/page_settings.php:57
+msgid "Story Arcs"
+msgstr ""
+
+#: includes/pages/page_book.php:85
+msgid "Storyboard"
+msgstr ""
+
+#: includes/pages/page_scene.php:91
+msgid "Storyboard line"
+msgstr ""
+
+#: includes/pages/page_communities.php:47
+msgid "Subscribers"
+msgstr ""
+
+#: includes/classes/class_book.php:332
+#: includes/functions/book_functions.php:779 includes/pages/page_print.php:46
+msgid "Summary"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:23
+msgid "Suspense"
+msgstr ""
+
+#: includes/pages/page_parameters.php:32 includes/pages/page_parameters.php:68
+#: includes/pages/page_settings_tab1.php:24
+#: includes/pages/page_settings_tab1.php:60
+msgid "Test format"
+msgstr ""
+
+#: includes/functions/plugin_change_functions.php:150
+msgid "Thanks for installing"
+msgstr ""
+
+#: includes/functions/plugin_change_functions.php:44
+msgid "Thanks for updating"
+msgstr ""
+
+#: includes/classes/class_booksettings.php:239
+#: includes/classes/class_chapter.php:212
+#: includes/widgets/book_shortcodes.php:189
+msgid "The End"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:94
+msgid "This chapter has been trashed"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:96
+msgid "This chapter has not been published yet!"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:29 includes/pages/page_book_tab4.php:57
+#: includes/pages/page_settings_tab2.php:31
+#: includes/pages/page_settings_tab2.php:59
+msgid "This is a mandatory option"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:19
+msgid "This shortcode needs at least one parameter (id or title)"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:62
+msgid "This shortcode needs at least the book id"
+msgstr ""
+
+#: includes/pages/wtrh_struct_page.php:143
+msgid ""
+"This WordPress administrator user will be detected by Writer Helper and will "
+"be a Writer Helper adminstrator."
+msgstr ""
+
+#: includes/functions/cmn_functions.php:24
+msgid "Thriller"
+msgstr ""
+
+#: includes/pages/page_parameters.php:77 includes/pages/page_parameters.php:78
+#: includes/pages/page_parameters.php:79 includes/pages/page_parameters.php:80
+#: includes/pages/page_settings_tab1.php:69
+#: includes/pages/page_settings_tab1.php:70
+#: includes/pages/page_settings_tab1.php:71
+#: includes/pages/page_settings_tab1.php:72
+msgid "through"
+msgstr ""
+
+#: includes/pages/page_parameters.php:53
+#: includes/pages/page_settings_tab1.php:45
+msgid "Time format"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:52 includes/pages/page_newbook.php:21
+msgid "Title"
+msgstr ""
+
+#: includes/pages/page_parameters.php:39 includes/pages/page_parameters.php:40
+#: includes/pages/page_parameters.php:41 includes/pages/page_parameters.php:44
+#: includes/pages/page_parameters.php:81
+#: includes/pages/page_settings_tab1.php:31
+#: includes/pages/page_settings_tab1.php:32
+#: includes/pages/page_settings_tab1.php:33
+#: includes/pages/page_settings_tab1.php:36
+#: includes/pages/page_settings_tab1.php:73
+msgid "to"
+msgstr ""
+
+#: includes/classes/class_status.php:295
+msgid "To draft"
+msgstr ""
+
+#: includes/classes/class_status.php:326
+msgid "To publish"
+msgstr ""
+
+#: includes/classes/class_booksettings.php:240
+#: includes/widgets/book_shortcodes.php:210
+msgid "To read more, contact the author"
+msgstr ""
+
+#: includes/pages/page_newbook.php:31
+msgid "Type"
+msgstr ""
+
+#: includes/classes/class_status.php:316
+msgid "Unhide"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:89
+#: includes/functions/module_download.php:86
+#, php-format
+msgid "Unknown add-on name %s"
+msgstr ""
+
+#: includes/functions/module_download.php:61
+#, php-format
+msgid "Unknown add-on: %s"
+msgstr ""
+
+#: includes/classes/class_status.php:297
+msgid "Unpublish"
+msgstr ""
+
+#: includes/pages/page_parameters.php:76
+#: includes/pages/page_settings_tab1.php:68
+msgid "Uppercase Ante meridiem and Post meridiem"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:303
+msgid "Use this media"
+msgstr ""
+
+#: writer-helper.php:210
+msgid "Users"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:80
+msgid "Users who can see the book preview"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:101
+msgid "Users who can see the bookworld"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:59
+msgid "Users who can see the hidden scenes/chapters"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:38
+msgid "Users who can see the published book/chapter"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1140
+msgid "Verify the date entered."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1141
+msgid "Verify the statuses of all your chapters."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1068
+#: includes/functions/ajax_functions.php:1093
+#: includes/functions/ajax_functions.php:1361
+#: includes/functions/ajax_functions.php:1386
+msgid "Verify your WordPress user capabilities."
+msgstr ""
+
+#: includes/pages/page_index.php:5
+msgid ""
+"Welcome to your new aid for writing and publishing books on your WordPress "
+"website"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:477
+#: includes/pages/page_users_tab1.php:31
+msgid "WordPress display name"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:41
+#: includes/widgets/author_stats_widgets.php:45
+msgid "words"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:826
+#: includes/functions/ajax_functions.php:861
+#: includes/functions/ajax_functions.php:911
+#: includes/functions/ajax_functions.php:946
+#: includes/pages/page_book_tab1.php:112 includes/pages/page_book_tab1.php:151
+#, php-format
+msgid "WP User is %s"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:364
+msgid "Write"
+msgstr ""
+
+#. Description of the plugin
+msgid "Write and edit books on your website"
+msgstr ""
+
+#: includes/pages/page_index.php:33
+msgid "Write your scenes"
+msgstr ""
+
+#: includes/pages/page_index.php:60
+msgid "Write your scenes, reorder your chapters and scenes."
+msgstr ""
+
+#. Name of the plugin
+msgid "Writer Helper"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:146
+msgid "Writer Helper - Book's info"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:218
+msgid "Writer Helper - Book's info when on a chapter page"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:19
+msgid "Writer Helper - Book's summary"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:89
+msgid "Writer Helper - Book's summary when on a chapter page"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:81
+msgid "Writer Helper - Lastest publication"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:19
+msgid "Writer Helper - Library"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:268
+msgid "Writer Helper - Search book field"
+msgstr ""
+
+#. Widget slug.
+#: includes/widgets/author_stats_widgets.php:51
+msgid "Writer Helper - Statistics"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:84
+msgid "Writer Helper add-ons on your site"
+msgstr ""
+
+#: includes/pages/page_communities.php:23
+msgid "Writer Helper Communities"
+msgstr ""
+
+#: includes/pages/page_users.php:25
+msgid "Writer Helper Users"
+msgstr ""
+
+#: includes/pages/page_users.php:43
+msgid "Writers"
+msgstr ""
+
+#: includes/classes/class_book.php:510
+msgid "Writing file failed"
+msgstr ""
+
+#: includes/pages/wtrh_struct_page.php:133
+msgid "You are not authorized to access Writer Helper."
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:99
+msgid "You are not authorized to read this chapter"
+msgstr ""
+
+#: includes/pages/page_bookworlds.php:12 includes/pages/page_book_tab3.php:13
+#: includes/pages/page_communities_tab1.php:9
+#: includes/pages/page_communities_tab2.php:10
+#: includes/pages/page_communities_tab3.php:10
+#: includes/pages/page_settings_tab4.php:10
+#: includes/pages/page_settings_tab4.php:23
+#: includes/pages/page_settings_tab5.php:10 includes/pages/page_stats.php:9
+#: includes/pages/page_todolist.php:9 includes/pages/page_users_tab2.php:9
+#: includes/pages/page_users_tab3.php:9 includes/pages/page_users_tab4.php:9
+msgid "You can purchase it on our website"
+msgstr ""
+
+#: includes/pages/page_bookworlds.php:10
+#: includes/pages/page_settings_tab4.php:21
+#: includes/pages/page_settings_tab5.php:8
+msgid "You do not have the module \"Bookworld\""
+msgstr ""
+
+#: includes/pages/page_communities_tab1.php:7
+#: includes/pages/page_communities_tab2.php:8
+#: includes/pages/page_communities_tab3.php:8
+msgid "You do not have the module \"Communities\""
+msgstr ""
+
+#: includes/pages/page_users_tab4.php:7
+msgid "You do not have the module \"Readers\""
+msgstr ""
+
+#: includes/pages/page_stats.php:7
+msgid "You do not have the module \"Statistics\""
+msgstr ""
+
+#: includes/pages/page_book_tab3.php:11 includes/pages/page_settings_tab4.php:8
+msgid "You do not have the module \"Storyboard\""
+msgstr ""
+
+#: includes/pages/page_todolist.php:7
+msgid "You do not have the module \"To Do List\""
+msgstr ""
+
+#: includes/pages/page_users_tab2.php:7 includes/pages/page_users_tab3.php:7
+msgid "You do not have the module \"Writers & Editors\""
+msgstr ""
+
+#: includes/functions/cmn_functions.php:24
+msgid "Young adult"
+msgstr ""
+
+#: includes/pages/page_index.php:65
+msgid "Your book and/or chapters can be seen on your website."
+msgstr ""
+
+#: includes/pages/page_index.php:66
+msgid "Your book, chapter or scene is out but still recyclable."
+msgstr ""
+
+#: includes/pages/wtrh_struct_page.php:139
+msgid "Your website does not have a Writer Helper administrator."
+msgstr ""
+
+#: includes/functions/module_download.php:134
+msgid "ZIP file deleted"
+msgstr ""

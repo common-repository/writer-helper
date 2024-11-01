@@ -1,0 +1,3857 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Writer Helper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-02 17:53+0000\n"
+"PO-Revision-Date: 2021-05-04 15:47+0000\n"
+"Last-Translator: Clarisse K.\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: includes/pages/page_parameters.php:43
+#: includes/pages/page_settings_tab1.php:35
+msgid " \tA full textual representation of a month, such as January or March"
+msgstr ""
+
+#: modules/storyboard/includes/classes/class_plotline.php:223
+#, php-format
+msgid "%s rows deleted"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:137
+msgid "(Free)"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:143
+msgid "(free)"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab3.php:63
+msgid "(Re)Generate key"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:177
+msgid "*Authors and editors must be registered Writer Helper Users."
+msgstr ""
+
+#: includes/pages/page_parameters.php:79
+#: includes/pages/page_settings_tab1.php:71
+msgid "12-hour format of an hour with leading zeros"
+msgstr ""
+
+#: includes/pages/page_parameters.php:77
+#: includes/pages/page_settings_tab1.php:69
+msgid "12-hour format of an hour without leading zeros"
+msgstr ""
+
+#: includes/pages/page_parameters.php:80
+#: includes/pages/page_settings_tab1.php:72
+msgid "24-hour format of an hour with leading zeros"
+msgstr ""
+
+#: includes/pages/page_parameters.php:78
+#: includes/pages/page_settings_tab1.php:70
+msgid "24-hour format of an hour without leading zeros"
+msgstr ""
+
+#: includes/pages/page_parameters.php:45
+#: includes/pages/page_settings_tab1.php:37
+msgid "A full numeric representation of a year, 4 digits"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:109
+msgid "A new version is up"
+msgstr ""
+
+#: includes/pages/page_index.php:47
+msgid "A new WordPress media has been created"
+msgstr ""
+
+#: includes/functions/module_download.php:28
+msgid "A PHP extension has stopped the download"
+msgstr ""
+
+#: includes/pages/page_parameters.php:42
+#: includes/pages/page_settings_tab1.php:34
+msgid "A short textual representation of a month, three letters"
+msgstr ""
+
+#: includes/functions/module_download.php:22
+msgid "A temporary directory is missing"
+msgstr ""
+
+#: includes/pages/page_parameters.php:46
+#: includes/pages/page_settings_tab1.php:38
+msgid "A two digit representation of a year"
+msgstr ""
+
+#: includes/pages/page_index.php:53
+msgid "About chapters and scenes statuses"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:50
+msgid "Action and adventure"
+msgstr ""
+
+#: includes/pages/page_parameters.php:100
+#: includes/pages/page_settings_tab2.php:128
+msgid "Add"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:194
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:96
+msgid "Add a beat"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld_tab1.php:66
+msgid "Add a book"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:446
+msgid "Add a chapter"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld_tab2.php:19
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:608
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:754
+msgid "Add a character"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld_tab2c.php:90
+msgid "Add a feature"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab1.php:13
+msgid "Add a guest"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:511
+msgid "Add a scene"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab1.php:16
+msgid "Add a subscriber"
+msgstr ""
+
+#: includes/pages/page_users_tab1.php:2
+msgid "Add an administrator to Writer Helper"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld_tab2c.php:73
+msgid "Add an arc"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld_tab1.php:49
+msgid "Add an author"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:822
+#: includes/functions/ajax_functions.php:857
+msgid "Add author"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:134
+msgid "Add author*"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:907
+#: includes/functions/ajax_functions.php:942
+msgid "Add editor"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:173
+msgid "Add editor*"
+msgstr ""
+
+#: includes/functions/scene_functions.php:58
+msgid "Add links to next scenes"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:897
+msgid "Add plotline"
+msgstr ""
+
+#: includes/functions/scene_functions.php:119
+msgid "Add this new link"
+msgstr ""
+
+#: includes/pages/page_users.php:37
+msgid "Administrators"
+msgstr ""
+
+#: includes/functions/book_functions.php:13
+#: includes/pages/page_book_tab5.php:24
+#: modules/communities/includes/pages/page_communities_tab3.php:74
+msgid "All"
+msgstr ""
+
+#: includes/pages/page_communities.php:35
+msgid "All communities"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:51
+msgid "Alternate history"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1073
+msgid "An error occured while publishing your book."
+msgstr ""
+
+#: includes/functions/book_functions.php:613
+msgid "Anthology of books"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:209
+#: modules/bookworld/includes/pages/page_bookworld_tab2c.php:32
+msgid "Archetyp"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:197
+msgid "Archetyp assets"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:179
+msgid "Archetyp category"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:194
+msgid "Archetyp description"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:200
+msgid "Archetyp flaws"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_settings_tab5.php:21
+msgid "Archetyp has been successfuly imported."
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:191
+msgid "Archetyp name"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:203
+msgid "Archetyp other side"
+msgstr ""
+
+#: includes/pages/page_settings.php:63
+#: modules/bookworld/includes/pages/page_settings_tab5.php:34
+msgid "Archetyps"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:103
+msgid "Author"
+msgstr ""
+
+#: includes/functions/book_functions.php:332
+#: includes/functions/book_functions.php:399
+#: modules/communities/includes/functions/whc_community_functions.php:172
+#: modules/communities/includes/functions/whc_community_functions.php:215
+msgid "Author(s)"
+msgstr ""
+
+#: includes/functions/book_functions.php:69
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:133
+#: modules/bookworld/includes/pages/page_bookworld_tab1.php:47
+msgid "Authors"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:70
+msgid "Authors can use Bookworlds"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:97
+msgid "Authors can use Statistics"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:89
+msgid "Authors can use Storyboard"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:105
+msgid "Authors can use To Do List"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:55
+msgid "Authors default settings"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:51
+msgid "Autobiography"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:167
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:180
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:69
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:82
+msgid "Beat description"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:644
+msgid "Beat id not found"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:167
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:179
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:69
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:81
+msgid "Beat title"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld_tab2a.php:32
+msgid "Beats"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:52
+msgid "Biography"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:91
+#: modules/communities/includes/widgets/community_shortcodes.php:103
+msgid "Book"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:299
+#: includes/widgets/author_stats_widgets.php:21
+#: includes/widgets/author_stats_widgets.php:38
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:49
+#: modules/communities/includes/pages/page_communities_tab3.php:93
+#: modules/communities/includes/pages/page_communities_tab3.php:121
+msgid "book"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:23 includes/pages/page_book_tab1.php:316
+#: modules/communities/includes/functions/whc_community_functions.php:155
+#: modules/communities/includes/functions/whc_community_functions.php:201
+msgid "Book cover"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:85
+msgid "Book Customised status"
+msgstr ""
+
+#: includes/pages/page_book.php:91
+msgid "Book Display Settings"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:66
+#: includes/pages/page_settings_tab2.php:69
+msgid "Book Ending Label"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_books.php:139
+msgid "Book id not found"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:304
+msgid "Book id not set"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:13
+#: includes/pages/page_settings_tab2.php:16
+msgid "Book info to display via shortcodes"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:861
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:950
+msgid "Book not found"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:32
+#: includes/widgets/book_shortcodes.php:69 includes/widgets/book_widgets.php:33
+#: includes/widgets/book_widgets.php:197
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:32
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:169
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:325
+#, php-format
+msgid "Book not found with id %s"
+msgstr ""
+
+#: includes/functions/book_functions.php:765 includes/pages/page_print.php:13
+#, php-format
+msgid "Book reference not found : %s"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:767
+#, php-format
+msgid "Book status unknown : %s"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:318
+msgid "Book title"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:83
+msgid "Book type"
+msgstr ""
+
+#: includes/pages/page_parameters.php:92
+#: includes/pages/page_settings_tab2.php:119
+msgid "Book types"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:256
+msgid "Book unique identifier"
+msgstr ""
+
+#: includes/pages/page_book.php:97
+msgid "Book Users Settings"
+msgstr ""
+
+#: includes/pages/page_newbook.php:46
+msgid "Book where you are the hero"
+msgstr ""
+
+#: includes/pages/page_settings.php:45
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:61
+#: modules/bookworld/includes/pages/page_bookworld_tab1.php:64
+msgid "Books"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:297
+#: includes/widgets/author_stats_widgets.php:21
+#: includes/widgets/author_stats_widgets.php:38
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:49
+#: modules/communities/includes/pages/page_communities_tab3.php:91
+#: modules/communities/includes/pages/page_communities_tab3.php:119
+msgid "books"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:273
+msgid "Books are related to this type"
+msgstr ""
+
+#: modules/communities/includes/widgets/community_shortcodes.php:163
+msgid "Books from:"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:61
+msgid "Books per author"
+msgstr ""
+
+#: includes/pages/page_settings.php:51
+msgid "Books Users"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_bookworlds.php:91
+msgid "Bookworld id not found"
+msgstr ""
+
+#: modules/bookworld/includes/classes/db_class_bookworld.php:140
+#, php-format
+msgid "Bookworld in Metadata not found (id: %s)"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab3.php:127
+msgid "Bookworld module not installed"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:990
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:190
+#, php-format
+msgid "Bookworld not found (id: %s)"
+msgstr ""
+
+#: writer-helper.php:201
+msgid "Bookworlds"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:78
+msgid "Bookworlds per author"
+msgstr ""
+
+#: includes/functions/book_functions.php:313
+#: includes/functions/book_functions.php:442
+msgid "Buy here"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:38
+msgid "by"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:437
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:561
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:866
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1027
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1108
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:336
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:453
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:502
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:993
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1027
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1060
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1093
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1126
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1159
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1373
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1052
+msgid "Cancel"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:98
+#: includes/functions/ajax_functions.php:106
+#: includes/functions/module_download.php:91
+#: includes/functions/module_download.php:99
+#, php-format
+msgid "Cannot create directory %s"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:118
+#, php-format
+msgid "Cannot create file %s"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:149
+#, php-format
+msgid "Cannot delete file %s"
+msgstr ""
+
+#: includes/functions/module_download.php:135
+#, php-format
+msgid "Cannot download file %s"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:133
+#: includes/functions/module_download.php:114
+#, php-format
+msgid "Cannot open file %s"
+msgstr ""
+
+#: modules/communities/includes/classes/class_community.php:185
+msgid "Cannot retrieve items from a subscriber."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:139
+#: includes/functions/module_download.php:120
+#, php-format
+msgid "Cannot unzip file %s to directory %s"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:123
+#, php-format
+msgid "Cannot updload file %s"
+msgstr ""
+
+#: includes/pages/page_parameters.php:12
+msgid "Categories"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:227
+msgid "Category Id incorrect"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:220
+msgid "Category Id not found"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:203
+msgid "Change"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:38
+msgid "Change cover"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:812
+#: includes/functions/ajax_functions.php:847
+#: includes/functions/ajax_functions.php:897
+#: includes/functions/ajax_functions.php:932
+#: includes/pages/page_book_tab1.php:117 includes/pages/page_book_tab1.php:156
+msgid "Change name"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1408
+msgid "Change plot"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:192
+msgid "Change publication date"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:773
+msgid "Change status of chapters or/and scenes individually."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1252
+msgid "Change status of scenes individually."
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:816
+msgid "Change the action"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:825
+msgid "Change the conflict"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:797
+msgid "Change the place"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:834
+msgid "Change the scene beginning"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:843
+msgid "Change the scene ending"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:807
+msgid "Change the time"
+msgstr ""
+
+#: includes/pages/page_scene.php:153 includes/pages/wtrh_struct_page.php:11
+msgid "Changes not saved"
+msgstr ""
+
+#: includes/classes/class_book.php:283 includes/classes/class_chapter.php:400
+#: includes/functions/chapter_functions.php:60
+#: includes/widgets/books_widgets.php:103
+#: modules/communities/includes/widgets/community_shortcodes.php:110
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:561
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:492
+msgid "Chapter"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:29
+msgid "chapter"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:588
+#, php-format
+msgid "Chapter %s not in Book %s"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:537
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:568
+msgid "Chapter id not found"
+msgstr ""
+
+#: includes/pages/page_chapter.php:13 includes/pages/page_scene.php:62
+msgid "Chapter n&deg;"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1246
+#, php-format
+msgid "Chapter status unknown : %s"
+msgstr ""
+
+#: includes/pages/page_chapter.php:28
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:419
+msgid "Chapter title"
+msgstr ""
+
+#: includes/pages/page_book_tab2.php:6 includes/pages/page_scene.php:105
+msgid "Chapters"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:29
+msgid "chapters"
+msgstr ""
+
+#: includes/pages/page_book.php:79
+msgid "Chapters List"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:51
+msgid "character"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:192
+msgid "Character Arc beats"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:190
+msgid "Character Arc description"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_settings_tab4.php:24
+msgid "Character Arc has been successfuly imported."
+msgstr ""
+
+#: modules/bookworld/includes/classes/db_class_character.php:167
+#: modules/bookworld/includes/classes/db_class_characterarc.php:186
+#, php-format
+msgid "Character Arc in Metadata not found (id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:188
+msgid "Character Arc name"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:161
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:164
+#, php-format
+msgid "Character arc not found (id: % s)"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld_tab2a.php:18
+msgid "Character Arc of"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld_tab2c.php:71
+#: modules/bookworld/includes/pages/page_settings_tab4.php:37
+msgid "Character arcs"
+msgstr ""
+
+#: modules/bookworld/js/whb_bookworld_js.php:266
+msgid "Character must be saved first"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:448
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:509
+#, php-format
+msgid "Character not found (id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld_tab2.php:17
+msgid "Characters"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:51
+msgid "characters"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:242
+msgid "Characters from books and not described in the bookworld"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld.php:66
+msgid "Characters List"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld.php:72
+msgid "Characters web"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:52
+msgid "Chick lit"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:53
+msgid "Children's literature"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:70 includes/widgets/book_widgets.php:223
+msgid "Choose a book"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_settings_tab4.php:49
+#: modules/bookworld/includes/pages/page_settings_tab4.php:53
+#: modules/bookworld/includes/pages/page_settings_tab5.php:46
+#: modules/bookworld/includes/pages/page_settings_tab5.php:50
+#: modules/storyboard/includes/pages/page_book_tab3.php:68
+#: modules/storyboard/includes/pages/page_book_tab3.php:72
+#: modules/storyboard/includes/pages/page_settings_tab4.php:48
+#: modules/storyboard/includes/pages/page_settings_tab4.php:52
+msgid "Choose a file"
+msgstr ""
+
+#. Author of the plugin
+msgid "Clarisse K."
+msgstr ""
+
+#: includes/pages/page_index.php:30
+msgid "Click on Create a new book button"
+msgstr ""
+
+#: includes/pages/page_index.php:46
+msgid "Click on Export to EPUB button"
+msgstr ""
+
+#: includes/pages/page_index.php:29 includes/pages/page_index.php:45
+msgid "Click on My Books menu"
+msgstr ""
+
+#: includes/classes/class_book.php:246 includes/widgets/books_widgets.php:126
+#: includes/widgets/books_widgets.php:127 includes/widgets/book_widgets.php:48
+#: includes/widgets/book_widgets.php:148
+#: modules/communities/includes/widgets/community_shortcodes.php:129
+#: modules/communities/includes/widgets/community_shortcodes.php:130
+msgid "Coming soon"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:54
+msgid "Coming-of-age"
+msgstr ""
+
+#: writer-helper.php:213
+msgid "Communities"
+msgstr ""
+
+#: modules/communities/includes/widgets/community_shortcodes.php:37
+#: modules/communities/includes/widgets/community_shortcodes.php:88
+#, php-format
+msgid "Community found is not a guest (id: %s)"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab2.php:43
+#: modules/communities/includes/pages/page_communities_tab3.php:57
+msgid "Community key"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab2.php:31
+#: modules/communities/includes/pages/page_communities_tab3.php:50
+msgid "Community name"
+msgstr ""
+
+#: modules/communities/includes/widgets/community_shortcodes.php:34
+#: modules/communities/includes/widgets/community_shortcodes.php:85
+#, php-format
+msgid "Community not found with id %s"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_ajax_functions.php:61
+#: modules/communities/includes/functions/whc_ajax_functions.php:105
+msgid "Community not saved."
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab2.php:26
+#: modules/communities/includes/pages/page_communities_tab3.php:45
+msgid "Community type"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab2.php:38
+msgid "Community website"
+msgstr ""
+
+#: includes/functions/book_functions.php:774 includes/pages/page_print.php:23
+msgid "Cover"
+msgstr ""
+
+#: includes/functions/book_functions.php:642
+#, php-format
+msgid "Cover of %s"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:172
+msgid "Create a archetyp"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:175
+msgid "Create a character arc"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_settings_tab5.php:42
+msgid "Create a new archetyp"
+msgstr ""
+
+#: includes/functions/book_functions.php:36
+msgid "Create a new book"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:18
+msgid "Create a new bookworld"
+msgstr ""
+
+#: includes/functions/chapter_functions.php:29
+msgid "Create a new chapter"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_settings_tab4.php:45
+msgid "Create a new character arc"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:227
+msgid "Create a new scene"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_settings_tab4.php:44
+msgid "Create a new story arc"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1031
+#: includes/pages/page_book_tab1.php:63
+msgid "Create a post for your book"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1320
+#: includes/functions/chapter_functions.php:78
+#: includes/pages/page_chapter.php:40
+msgid "Create a post for your chapter"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:77
+msgid "Create a story arc"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_book_tab3.php:66
+msgid "Create a storyboard by importing a storyboard"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_book_tab3.php:51
+msgid "Create a storyboard by selecting a story arc"
+msgstr ""
+
+#: includes/pages/page_index.php:32
+msgid "Create as many chapters as necessary"
+msgstr ""
+
+#: includes/functions/chapter_functions.php:34
+msgid "Create chapters and scenes using the Storyboard"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:254
+msgid "Create character"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:297
+msgid "Create New Scene"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_book_tab3.php:62
+msgid "Create storyboard"
+msgstr ""
+
+#: includes/pages/page_index.php:23
+msgid "Create your first book"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:54
+msgid "Crime"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:235
+msgid "Data saved"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:4
+msgid "Date and Time Formats"
+msgstr ""
+
+#: includes/pages/page_parameters.php:17
+#: includes/pages/page_settings_tab1.php:9
+msgid "Date format"
+msgstr ""
+
+#: includes/pages/page_parameters.php:40
+#: includes/pages/page_settings_tab1.php:32
+msgid "Day of the month without leading zeros"
+msgstr ""
+
+#: includes/pages/page_parameters.php:39
+#: includes/pages/page_settings_tab1.php:31
+msgid "Day of the month, 2 digits with leading zeros"
+msgstr ""
+
+#: includes/pages/page_settings_tab2.php:12
+msgid "Default Books Settings"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:205
+msgid "Default Books Settings not saved"
+msgstr ""
+
+#: includes/functions/book_functions.php:143
+msgid "Defenitive Delete"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:273
+#: includes/functions/buttons_functions.php:397
+msgid "Definitive delete"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:307
+#: includes/functions/ajax_functions.php:478
+#: includes/functions/book_functions.php:116
+#: includes/functions/buttons_functions.php:262
+#: includes/functions/buttons_functions.php:386
+#: includes/functions/scene_functions.php:88
+#: includes/pages/page_book_tab1.php:121 includes/pages/page_book_tab1.php:160
+#: includes/pages/page_users_tab1.php:30
+#: modules/bookworld/js/whb_characterarc_js.php:45
+#: modules/storyboard/js/whs_storyarc_js.php:45
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:133
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:139
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:210
+#: modules/communities/includes/functions/whc_community_functions.php:48
+#: modules/communities/includes/pages/page_communities_tab2.php:59
+#: modules/communities/includes/pages/page_communities_tab3.php:148
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:42
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:112
+msgid "Delete"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:538
+msgid "Delete arc"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:108
+msgid "Delete author from bookworld"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:167
+msgid "Delete book from bookworld"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:233
+msgid "Delete character"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:118
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:124
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:27
+msgid "Delete export file"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:480
+msgid "Delete feature"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:889
+msgid "Delete plotline"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_book_tab3.php:132
+msgid "Delete storyboard"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1010
+#: includes/pages/page_book_tab1.php:73
+msgid "Delete the post containing your book"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1299
+#: includes/functions/chapter_functions.php:87
+#: includes/pages/page_chapter.php:50
+msgid "Delete the post containing your chapter"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:104
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:518
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:111
+#: modules/bookworld/includes/pages/page_bookworld_tab1.php:22
+#: modules/bookworld/includes/pages/page_bookworld_tab2a.php:28
+#: modules/bookworld/includes/pages/page_bookworld_tab2c.php:47
+#: modules/bookworld/includes/pages/page_newbookworld.php:33
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:14
+msgid "Description"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:354
+msgid "Description of the main plotline"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:53
+msgid "Diary"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:361
+msgid "Display a field to search published books"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:299
+msgid "Display a search book field"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:14
+msgid "Display all books"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:67
+msgid "Display lastest publications"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:249
+msgid "Display the info of the book when a chapter's page is displayed"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:177
+msgid "Display the info of the selected book"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:96
+msgid "Display the summary of the book when a chapter's page is displayed"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:14
+msgid "Display the summary of the selected book"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:417
+msgid "Download storyboard export"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:55
+msgid "Drama"
+msgstr ""
+
+#: includes/functions/book_functions.php:153
+#: includes/functions/buttons_functions.php:348
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:126
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:132
+#: modules/communities/includes/functions/whc_community_functions.php:45
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:35
+msgid "Edit"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:129
+msgid "Edit all books"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:530
+msgid "Edit arc"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:226
+msgid "Edit character"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:475
+msgid "Edit feature"
+msgstr ""
+
+#: includes/pages/page_scene.php:198
+msgid "Editing notes"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:141
+msgid "Editor"
+msgstr ""
+
+#: includes/functions/book_functions.php:342
+#: includes/functions/book_functions.php:425
+msgid "Editor(s)"
+msgstr ""
+
+#: includes/functions/book_functions.php:78 includes/pages/page_users.php:49
+msgid "Editors"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:137
+msgid "Editors can use Statistics"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:145
+msgid "Editors can use To Do List"
+msgstr ""
+
+#: includes/pages/page_settings_tab3.php:123
+msgid "Editors default settings"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:341
+msgid "End draft"
+msgstr ""
+
+#: includes/functions/book_functions.php:148
+msgid "End drafting"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:355
+msgid "End edit"
+msgstr ""
+
+#: includes/functions/book_functions.php:158
+msgid "End editing"
+msgstr ""
+
+#: includes/functions/book_functions.php:676
+#, php-format
+msgid "End of %s"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:35
+msgid "Enter -1 if all chapters are free"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab3.php:135
+msgid "Enter a book title"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:197
+#, php-format
+msgid "Enter a date (date format is %s)"
+msgstr ""
+
+#: includes/pages/page_parameters.php:37
+#: includes/pages/page_settings_tab1.php:29
+msgid "Enter a date format using the following characters."
+msgstr ""
+
+#: includes/functions/cmn_functions.php:256
+#, php-format
+msgid "Enter a date of publication (format %s)"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab2.php:21
+msgid "Enter a new guest below"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab3.php:40
+msgid "Enter a new subscriber below"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:33
+msgid "Enter a number (\"All\" by default)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1016
+msgid "Enter a time"
+msgstr ""
+
+#: includes/pages/page_parameters.php:73
+#: includes/pages/page_settings_tab1.php:65
+msgid "Enter a time format using the following characters."
+msgstr ""
+
+#: includes/widgets/books_widgets.php:152
+msgid "Enter a title to display before the publications"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1050
+msgid "Enter an action description"
+msgstr ""
+
+#: includes/pages/page_users_tab1.php:6
+msgid "Enter an administrator name"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:820
+#: includes/functions/ajax_functions.php:855
+#: includes/functions/ajax_functions.php:905
+#: includes/functions/ajax_functions.php:940
+#: includes/pages/page_book_tab1.php:131 includes/pages/page_book_tab1.php:170
+msgid "Enter an author name"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:156
+msgid "Enter the number of publications to display"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1116
+msgid "Enter the scene beginning"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1083
+msgid "Enter the scene conflict"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1149
+msgid "Enter the scene ending"
+msgstr ""
+
+#: includes/pages/page_index.php:31
+msgid "Enter your book's info"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:803
+msgid "Error add book author"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:888
+msgid "Error add book editor"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1460
+msgid "Error addLinkedScene"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:225
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:241
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:262
+msgid "Error Archetyp id not found"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:178
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:200
+msgid "Error Archetyp title not set"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:797
+#: includes/functions/ajax_functions.php:832
+#: includes/functions/ajax_functions.php:864
+msgid "Error author id not found"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:636
+msgid "Error book add author"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:639
+msgid "Error book add editor"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:630
+msgid "Error book create"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:749
+msgid "Error book delete"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:611
+msgid "Error Book id not found"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:168
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1205
+msgid "Error Book id not set"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:646
+#: includes/functions/ajax_functions.php:685
+#: includes/functions/ajax_functions.php:719
+#: includes/functions/ajax_functions.php:731
+#: includes/functions/ajax_functions.php:744
+#: includes/functions/ajax_functions.php:754
+#: includes/functions/ajax_functions.php:778
+#: includes/functions/ajax_functions.php:794
+#: includes/functions/ajax_functions.php:829
+#: includes/functions/ajax_functions.php:879
+#: includes/functions/ajax_functions.php:914
+#: includes/functions/ajax_functions.php:1129
+#: includes/functions/ajax_functions.php:1364
+#: includes/functions/ajax_functions.php:1496
+msgid "Error book reference not found"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:977
+#: includes/functions/ajax_functions.php:985
+#: includes/functions/ajax_functions.php:995
+#: includes/functions/ajax_functions.php:1020
+#: includes/functions/ajax_functions.php:1065
+#: includes/functions/ajax_functions.php:1080
+msgid "Error book reference not given"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:680
+msgid "Error book udpate"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:364
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:381
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:445
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:479
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:509
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:569
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:641
+msgid "Error Bookworld id not found"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:324
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:343
+msgid "Error Bookworld title not set"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1142
+msgid "Error chapter create"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1222
+msgid "Error chapter delete"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:410
+#, php-format
+msgid "Error chapter not found (id: %s)"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1162
+#: includes/functions/ajax_functions.php:1217
+#: includes/functions/ajax_functions.php:1233
+#: includes/functions/ajax_functions.php:1259
+msgid "Error chapter reference not found"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1284
+#: includes/functions/ajax_functions.php:1309
+msgid "Error chapter reference not given"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1178
+msgid "Error chapter udpate"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:32
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:59
+msgid "Error Character Arc has no beats"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:85
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:101
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:122
+msgid "Error Character Arc id not found"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:878
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:915
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:954
+msgid "Error Character arc id not found"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:54
+msgid "Error Character Arc title not set"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1145
+msgid "Error Character feature id not found"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:711
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:768
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:874
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:911
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:950
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1035
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1073
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1116
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1141
+msgid "Error Character id not found"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:792
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:830
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:974
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1039
+msgid "Error Character meta_id not found"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:724
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:745
+msgid "Error Character name not set"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:27
+msgid "Error CharacterArc title not set"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_ajax_functions.php:126
+msgid "Error community id not found"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_ajax_functions.php:53
+#: modules/communities/includes/functions/whc_ajax_functions.php:96
+msgid "Error community key not set"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_ajax_functions.php:38
+#: modules/communities/includes/functions/whc_ajax_functions.php:81
+msgid "Error community name not set"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_ajax_functions.php:48
+#: modules/communities/includes/functions/whc_ajax_functions.php:91
+#: modules/communities/includes/functions/whc_ajax_functions.php:151
+#, php-format
+msgid "Error community type is incorrect: %s"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_ajax_functions.php:43
+#: modules/communities/includes/functions/whc_ajax_functions.php:86
+msgid "Error community type not set"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:838
+msgid "Error delete book author"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:923
+msgid "Error delete book editor"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1488
+msgid "Error deleteLinkedScene"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:882
+#: includes/functions/ajax_functions.php:917
+#: includes/functions/ajax_functions.php:949
+msgid "Error editor id not found"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:928
+msgid "Error no beat in character arc"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1210
+msgid "Error plotline has no title"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1291
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1386
+msgid "Error Plotline id not found"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1225
+#: includes/functions/ajax_functions.php:1378
+#: includes/functions/ajax_functions.php:1422
+msgid "Error refresh numbers"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1153
+#: includes/functions/ajax_functions.php:1373
+msgid "Error scene create"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1419
+msgid "Error scene delete"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:475
+#, php-format
+msgid "Error scene not found (id: %s)"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1386
+#: includes/functions/ajax_functions.php:1414
+#: includes/functions/ajax_functions.php:1428
+#: includes/functions/ajax_functions.php:1453
+#: includes/functions/ajax_functions.php:1467
+#: includes/functions/ajax_functions.php:1481
+msgid "Error scene reference not found"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1409
+msgid "Error scene udpate"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1446
+msgid "Error status update"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:32
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:59
+msgid "Error Story Arc has no beats"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:85
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:101
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:122
+msgid "Error Story Arc id not found"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:54
+msgid "Error Story Arc title not set"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:173
+msgid "Error StoryArc id not set"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:27
+msgid "Error StoryArc title not set"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:216
+msgid "Error Storyboard has no beats"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:193
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:210
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:241
+msgid "Error Storyboard id not found"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:281
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:344
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:770
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:800
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:835
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:860
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:885
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:910
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:937
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1000
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1034
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1067
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1100
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1133
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1313
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1382
+msgid "Error Storyboard Line id not found"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:921
+msgid "Error title & description not set"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:871
+msgid "Error update author name"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:956
+msgid "Error update editor name"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1090
+msgid "Error update publication date"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1474
+msgid "Error updateLinkedScene"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:337
+#: includes/functions/ajax_functions.php:357
+#: includes/functions/ajax_functions.php:376
+#: includes/functions/ajax_functions.php:394
+#: includes/functions/ajax_functions.php:412
+#: includes/functions/ajax_functions.php:431
+msgid "Error user id not found"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:899
+msgid "Error while adding Character arc"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:683
+msgid "Error while changing chapter number"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:191
+msgid "Error while creating Archetyp"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:334
+msgid "Error while creating Bookworld"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:672
+msgid "Error while creating chapter"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:736
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:810
+msgid "Error while creating Character"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:45
+msgid "Error while creating Character Arc"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_ajax_functions.php:72
+msgid "Error while creating community"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:599
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:695
+msgid "Error while creating scene"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:45
+msgid "Error while creating Story Arc"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:625
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:725
+msgid "Error while creating storyboard line"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1001
+#: includes/functions/ajax_functions.php:1290
+msgid "Error while creating the new post."
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1226
+msgid "Error while creating the plotline"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:269
+#, php-format
+msgid "Error while deleting archetyp (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:271
+#, php-format
+msgid "Error while deleting book plotlines (book id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:371
+#, php-format
+msgid "Error while deleting Bookworld (id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:775
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:961
+#, php-format
+msgid "Error while deleting Character (id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:128
+#, php-format
+msgid "Error while deleting character arc (id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1158
+#, php-format
+msgid "Error while deleting Character feature (meta_id: %s)"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_ajax_functions.php:132
+msgid "Error while deleting community"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:111
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:137
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:251
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:278
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:111
+#, php-format
+msgid "Error while deleting file %s"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1079
+#, php-format
+msgid "Error while deleting plotline (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:128
+#, php-format
+msgid "Error while deleting story arc (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:265
+#, php-format
+msgid "Error while deleting storyboard (id: %s)"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1026
+#: includes/functions/ajax_functions.php:1315
+msgid "Error while deleting the post."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:437
+msgid "Error while deleting user"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:658
+#, php-format
+msgid "Error while generating EPUB (id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:589
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:619
+#, php-format
+msgid "Error while reading Book (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:254
+#, php-format
+msgid "Error while reading Book from Storyboard (id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:389
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:458
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:487
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:520
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:582
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:649
+#, php-format
+msgid "Error while reading Bookworld (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1232
+#, php-format
+msgid "Error while reading Chapter (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:545
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:583
+#, php-format
+msgid "Error while reading chapter (id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:893
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1055
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1124
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1153
+#, php-format
+msgid "Error while reading Character (id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:800
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:982
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1047
+#, php-format
+msgid "Error while reading Character (meta_id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:886
+#, php-format
+msgid "Error while reading Character arc (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1214
+#, php-format
+msgid "Error while reading Scene (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:518
+#, php-format
+msgid "Error while reading scene (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:222
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:247
+#, php-format
+msgid "Error while reading Storyboard (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1176
+#, php-format
+msgid "Error while reading Storyboard Beat (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:576
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:653
+#, php-format
+msgid "Error while reading storyboard beat (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:288
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:352
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:945
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1008
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1042
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1075
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1108
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1141
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1320
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1394
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1192
+#, php-format
+msgid "Error while reading Storyboard Line (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:605
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:702
+msgid "Error while refreshing scenes numbers"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:632
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:732
+msgid "Error while refreshing storyboard lines numbers"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:44
+msgid "Error while saving archetyp\t"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1015
+#: includes/functions/ajax_functions.php:1036
+msgid "Error while saving book"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:259
+#, php-format
+msgid "Error while saving book (id: %s)"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:233
+#, php-format
+msgid "Error while saving category %s"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1304
+#: includes/functions/ajax_functions.php:1325
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:246
+msgid "Error while saving chapter"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:48
+msgid "Error while saving character arc"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1129
+#, php-format
+msgid "Error while saving Character feature (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:204
+#, php-format
+msgid "Error while saving plotline [%s]"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:260
+msgid "Error while saving scene"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:224
+msgid "Error while saving story arc"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:176
+msgid "Error while saving storyboard"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:226
+msgid "Error while saving storyboard beat"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:280
+msgid "Error while saving storyboard line"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:349
+#: includes/functions/ajax_functions.php:368
+#: includes/functions/ajax_functions.php:386
+#: includes/functions/ajax_functions.php:404
+#: includes/functions/ajax_functions.php:422
+msgid "Error while saving user"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:214
+msgid "Error while updating Archetyp"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:597
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:627
+#, php-format
+msgid "Error while updating Book (id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:353
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:466
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:495
+msgid "Error while updating Bookworld"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:668
+#, php-format
+msgid "Error while updating Bookworld (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:556
+msgid "Error while updating chapter"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1239
+#, php-format
+msgid "Error while updating Chapter (id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:757
+msgid "Error while updating Character"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:939
+msgid "Error while updating Character arc"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:74
+msgid "Error while updating CharacterArc"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_ajax_functions.php:115
+msgid "Error while updating community"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1264
+msgid "Error while updating Plotline"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:526
+msgid "Error while updating scene"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1222
+#, php-format
+msgid "Error while updating Scene (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:74
+msgid "Error while updating StoryArc"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:232
+msgid "Error while updating Storyboard"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:373
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:790
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:825
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:850
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:875
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:900
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:925
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1403
+msgid "Error while updating Storyboard Line"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1206
+#, php-format
+msgid "Error while updating Storyboard Line (id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:781
+msgid "Error while updating Storyboard Line Character"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:816
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1061
+msgid "Error while updating Storyboard Line Character meta"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:785
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:820
+msgid "Error while updating time"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:84
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:91
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:168
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:113
+#, php-format
+msgid "Error while writing file %s"
+msgstr ""
+
+#: includes/functions/module_download.php:25
+msgid "Error while writing file on disk"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1180
+#, php-format
+msgid "Error: Storyboard Beat (id: %s) not in Storyboard (id: %s)"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:129
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:135
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:38
+msgid "Export"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:88
+msgid "Export all books in one EPUB file"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:115
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:121
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:24
+msgid "Export file"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_book_tab3.php:128
+msgid "Export storyboard"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:63
+#: includes/functions/buttons_functions.php:90
+msgid "Export To EPUB"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:55
+msgid "Fairytale"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:56
+msgid "Fantasy"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:456
+msgid "Feature name"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1098
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:457
+msgid "Feature value"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld_tab2c.php:88
+msgid "Features"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:90
+#, php-format
+msgid "File %s not found"
+msgstr ""
+
+#: includes/functions/module_download.php:108
+msgid "File downloaded"
+msgstr ""
+
+#: includes/functions/module_download.php:16
+msgid "File partially downloaded"
+msgstr ""
+
+#: includes/functions/module_download.php:13
+msgid "File size is higher than form limit"
+msgstr ""
+
+#: includes/functions/module_download.php:10
+msgid "File size is higher than PHP limit"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:207
+#: modules/bookworld/includes/pages/page_bookworld_tab2c.php:24
+msgid "First name"
+msgstr ""
+
+#: includes/pages/page_index.php:10
+msgid "For more details, read our FAQ at"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:250
+msgid "from"
+msgstr ""
+
+#: includes/functions/book_functions.php:62 includes/pages/page_book.php:50
+msgid "Game Book"
+msgstr ""
+
+#: includes/pages/page_newbook.php:44
+msgid "Game book"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:23
+msgid "game book"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:23
+msgid "game books"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:98
+msgid "GameBook"
+msgstr ""
+
+#: includes/pages/page_book.php:73 includes/pages/page_settings.php:39
+#: modules/bookworld/includes/pages/page_bookworld.php:60
+msgid "General"
+msgstr ""
+
+#: includes/pages/page_index.php:39
+msgid "Generate an EPUB file"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:994
+msgid "Get color name here"
+msgstr ""
+
+#: includes/pages/page_index.php:18
+msgid "Getting started"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:160
+#: includes/pages/goto_buttons.php:23
+msgid "Go Back"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_settings_tab5.php:68
+msgid "Go back to archetyps"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld_tab2a.php:62
+msgid "Go back to character"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_settings_tab4.php:71
+msgid "Go back to character arcs"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld_tab2c.php:63
+msgid "Go back to characters list"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_settings_tab4.php:70
+msgid "Go back to story arcs"
+msgstr ""
+
+#: includes/classes/class_chapter.php:437
+msgid "Go back to the beginning"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:111
+#: includes/pages/goto_buttons.php:13
+msgid "Go to Book"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:136
+msgid "Go To Bookworld"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:20
+msgid "Go to Chapter"
+msgstr ""
+
+#: includes/classes/class_chapter.php:441
+#, php-format
+msgid "Go to chapter %s"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:143
+msgid "Go To Characters"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:55
+#: includes/functions/buttons_functions.php:81
+msgid "Go To Epub"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:150
+msgid "Go To Stories"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:570
+msgid "Go To Story"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:764
+msgid "Go To Storyboard"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:123
+msgid "Go to Storyboard"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:48
+msgid "Go To WordPress Post"
+msgstr ""
+
+#: includes/pages/page_communities.php:41
+msgid "Guests"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab2.php:4
+msgid ""
+"Guests communities are all websites for which the books are displayed on "
+"your site"
+msgstr ""
+
+#: modules/storyboard/js/whs_storyboard_js.php:43
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:578
+msgid "Hide characters and plot line"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:57
+msgid "Historical fiction"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:56
+msgid "History"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:57
+msgid "Horror"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:30
+msgid "How many free Chapters"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://clarissek.fr"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://writerhelper.clarissek.fr"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:92
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:130
+#: modules/communities/includes/functions/whc_community_functions.php:21
+msgid "Id"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:206
+msgid "Images"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_settings_tab4.php:54
+#: modules/bookworld/includes/pages/page_settings_tab5.php:51
+#: modules/storyboard/includes/pages/page_book_tab3.php:73
+#: modules/storyboard/includes/pages/page_settings_tab4.php:53
+msgid "Import"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_settings_tab5.php:45
+msgid "Import archetyp"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_settings_tab4.php:48
+msgid "Import character arc"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_settings_tab4.php:47
+msgid "Import story arc"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:22
+msgid "including"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:114
+msgid "Install new version"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:125
+msgid "Install Writer Helper add-ons on your site"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1086
+#, php-format
+msgid "Invalid date : %s"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:254
+msgid "ISBN"
+msgstr ""
+
+#: includes/pages/page_index.php:59
+msgid "It's writing time."
+msgstr ""
+
+#: includes/pages/page_parameters.php:42
+#: includes/pages/page_settings_tab1.php:34
+msgid "Jan through Dec"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_community_functions.php:24
+msgid "Key"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:208
+#: modules/bookworld/includes/pages/page_bookworld_tab2c.php:28
+msgid "Last name"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:81 includes/widgets/books_widgets.php:140
+#: includes/widgets/books_widgets.php:149
+msgid "Lastest publications"
+msgstr ""
+
+#: includes/functions/book_functions.php:320
+#: includes/functions/book_functions.php:449
+msgid "Learn more"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:30
+msgid "Library"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:259
+msgid "Link character to a bookworld character"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:130
+msgid "Load & Install add-on"
+msgstr ""
+
+#: includes/pages/page_parameters.php:75
+#: includes/pages/page_settings_tab1.php:67
+msgid "Lowercase Ante meridiem and Post meridiem"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1421
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:877
+msgid "Main plot"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1002
+msgid "Main plot ?"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:353
+msgid "Main plotline"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:58
+msgid "Memoir"
+msgstr ""
+
+#: includes/pages/page_parameters.php:81
+#: includes/pages/page_settings_tab1.php:73
+msgid "Minutes with leading zeros"
+msgstr ""
+
+#: includes/functions/book_functions.php:611
+#: includes/functions/book_functions.php:627
+msgid "Miscellaneous"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:170
+msgid "Modify a archetyp"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:173
+msgid "Modify a character arc"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:75
+msgid "Modify a story arc"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:501
+msgid "Modify chapter title"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:274
+msgid "Modify or delete books first"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:885
+msgid "Modify plotline"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:556
+msgid "Modify scene description"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:143
+#: includes/functions/module_download.php:123
+msgid "Module installed"
+msgstr ""
+
+#: modules/storyboard/includes/classes/class_storyboard.php:361
+#, php-format
+msgid "More than 1 storyboard for book %s"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:26
+#, php-format
+msgid "More than one book found with title <%s>"
+msgstr ""
+
+#: writer-helper.php:198 includes/pages/page_books.php:1
+msgid "My Books"
+msgstr ""
+
+#: includes/pages/page_bookworlds.php:6
+#: modules/bookworld/includes/pages/page_bookworlds.php:21
+msgid "My Bookworlds"
+msgstr ""
+
+#: includes/pages/page_stats.php:1
+msgid "My stats"
+msgstr ""
+
+#: writer-helper.php:204 includes/pages/page_todolist.php:1
+msgid "My To Do List"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:58
+msgid "Mystery"
+msgstr ""
+
+#: includes/pages/page_users_tab1.php:3
+msgid "N.B. : A Writer Helper administrator must be a WordPress administrator"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:93
+#: modules/communities/includes/functions/whc_community_functions.php:23
+msgid "Name"
+msgstr ""
+
+#: includes/pages/page_newbook.php:12
+msgid "New book"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_newbookworld.php:13
+msgid "New bookworld"
+msgstr ""
+
+#: includes/classes/class_booksettings.php:179
+msgid "Next chapter"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:57
+#: includes/pages/page_settings_tab2.php:60
+msgid "Next Chapter Label"
+msgstr ""
+
+#: includes/classes/class_booksettings.php:184
+#: includes/widgets/book_shortcodes.php:196
+msgid "Next chapter not yet published"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:75
+#: includes/pages/page_settings_tab2.php:78
+msgid "Next Chapter Unpublished Label"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1006
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1009
+msgid "No"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:102
+msgid "No add-on downloaded"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:501
+msgid "No arc yet !"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:845
+msgid "No arc yet!"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:66
+#, php-format
+msgid "No archetyp found for id %s"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:59
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:155
+msgid "No archetyp identified"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:451
+msgid "No author selected"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:406
+msgid "No author yet!"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1101
+msgid "No book for this plotline !?!"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_books.php:85
+#: modules/communities/includes/functions/whc_restapi_books.php:112
+msgid "No book found"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:24
+#, php-format
+msgid "No book found with title %s"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:131
+msgid "No book given"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:575
+msgid "No book selected"
+msgstr ""
+
+#: includes/functions/book_functions.php:40
+msgid "No Book yet !"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:538
+msgid "No book yet!"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:65
+msgid "No books"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_bookworlds.php:63
+msgid "No bookworld found"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:22
+msgid "No Bookworld yet !"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:85
+#: modules/communities/includes/functions/whc_restapi_chapters.php:63
+msgid "No chapter found"
+msgstr ""
+
+#: includes/functions/chapter_functions.php:40
+msgid "No Chapter yet !"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:70
+#, php-format
+msgid "No character arc found for id %s"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:63
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:158
+msgid "No character arc identified"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1006
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:308
+msgid "No character yet!"
+msgstr ""
+
+#: modules/communities/includes/widgets/community_shortcodes.php:26
+#: modules/communities/includes/widgets/community_shortcodes.php:77
+#, php-format
+msgid "No community found with key %s"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_community_functions.php:16
+msgid "No community referenced today"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:339
+msgid "No cover"
+msgstr ""
+
+#: includes/functions/book_functions.php:260
+msgid "No Cover for this book"
+msgstr ""
+
+#: includes/pages/page_scene.php:156
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:39
+msgid "No description"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:464
+msgid "No feature yet !"
+msgstr ""
+
+#: includes/functions/module_download.php:19
+msgid "No file downloaded"
+msgstr ""
+
+#: includes/functions/module_download.php:39
+msgid "No file selected"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:29
+msgid "No HTML div set"
+msgstr ""
+
+#: includes/functions/scene_functions.php:122
+msgid "No more different scene to add"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:966
+msgid "No places yet!"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1412
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:624
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:778
+msgid "No plotline!"
+msgstr ""
+
+#: includes/pages/page_scene.php:127
+msgid "No scene created"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:584
+msgid "No scene!?!"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_book_tab3.php:36
+msgid "No selected book"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:147
+#, php-format
+msgid "No story arc found for id %s"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:60
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:140
+msgid "No story arc identified"
+msgstr ""
+
+#: includes/pages/page_scene.php:89
+#: modules/storyboard/includes/pages/page_book_tab3.php:47
+msgid "No storyboard for this book"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:585
+msgid "No user found"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_ajax_functions.php:60
+#: modules/communities/includes/functions/whc_ajax_functions.php:104
+msgid "Nonce already used for another community."
+msgstr ""
+
+#: includes/functions/book_functions.php:17
+msgid "None"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:772
+msgid "Not all chapters/scenes are at the same status."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1251
+msgid "Not all scenes are at the same status."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:272
+msgid "Not deleted"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:247
+msgid "Notation URL"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:83
+#: includes/functions/ajax_functions.php:91
+#: includes/functions/ajax_functions.php:99
+#: includes/functions/ajax_functions.php:107
+#: includes/functions/ajax_functions.php:119
+#: includes/functions/ajax_functions.php:124
+#: includes/functions/ajax_functions.php:134
+#: includes/functions/ajax_functions.php:140
+#: includes/functions/ajax_functions.php:150
+#: includes/functions/module_download.php:59
+#: includes/functions/module_download.php:84
+#: includes/functions/module_download.php:92
+#: includes/functions/module_download.php:100
+#: includes/functions/module_download.php:115
+#: includes/functions/module_download.php:121
+#: includes/functions/module_download.php:136
+msgid "Nothing has been installed"
+msgstr ""
+
+#: includes/pages/page_index.php:61
+msgid "Notify the end of drafting."
+msgstr ""
+
+#: includes/pages/page_index.php:63
+msgid "Notify the end of editing."
+msgstr ""
+
+#: includes/pages/page_index.php:64
+msgid "Notify your publish intent."
+msgstr ""
+
+#: includes/pages/page_parameters.php:41
+#: includes/pages/page_settings_tab1.php:33
+msgid "Numeric representation of a month, with leading zeros"
+msgstr ""
+
+#: includes/pages/page_parameters.php:44
+#: includes/pages/page_settings_tab1.php:36
+msgid "Numeric representation of a month, without leading zeros"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:218
+msgid "Open"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1006
+#: includes/functions/ajax_functions.php:1295
+#: includes/functions/chapter_functions.php:83
+#: includes/pages/page_book_tab1.php:69 includes/pages/page_chapter.php:46
+msgid "Open post"
+msgstr ""
+
+#: includes/classes/class_book.php:361
+msgid "Opening file failed"
+msgstr ""
+
+#: includes/pages/page_parameters.php:45 includes/pages/page_parameters.php:46
+#: includes/pages/page_parameters.php:75 includes/pages/page_parameters.php:76
+#: includes/pages/page_settings_tab1.php:37
+#: includes/pages/page_settings_tab1.php:38
+#: includes/pages/page_settings_tab1.php:67
+#: includes/pages/page_settings_tab1.php:68
+msgid "or"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:326
+msgid "Or a new character"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:983
+msgid "Or a new place"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:17
+#: includes/pages/page_settings_tab2.php:20
+msgid "Other Info"
+msgstr ""
+
+#: includes/pages/page_parameters.php:6
+msgid "Parameters"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1013
+msgid "Parent plot"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:991
+msgid "Plot color"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:987
+msgid "Plot description"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:998
+msgid "Plot theme"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:982
+msgid "Plot title"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:954
+msgid "Plotline id incorrect"
+msgstr ""
+
+#: modules/storyboard/includes/classes/db_class_plotline.php:128
+#, php-format
+msgid "Plotline not found (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:427
+msgid "Plotlines"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:59
+msgid "Poetry"
+msgstr ""
+
+#: includes/functions/book_functions.php:15
+msgid "Premium readers"
+msgstr ""
+
+#: includes/classes/class_booksettings.php:180
+msgid "Previous chapter"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:61
+#: includes/pages/page_settings_tab2.php:64
+msgid "Previous Chapter Label"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:180
+msgid "Previous chapter not yet published"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:70
+msgid "Print"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:240
+msgid "Promotion URL"
+msgstr ""
+
+#: includes/pages/page_index.php:62
+msgid "Proofread your scenes."
+msgstr ""
+
+#: includes/functions/book_functions.php:89
+#: includes/functions/book_functions.php:295
+#: includes/functions/book_functions.php:435
+#: includes/pages/page_book_tab1.php:184
+#: modules/communities/includes/functions/whc_community_functions.php:168
+#: modules/communities/includes/functions/whc_community_functions.php:220
+msgid "Publication date"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1087
+msgid "Publication date not updated"
+msgstr ""
+
+#: includes/functions/book_functions.php:175
+#: includes/functions/buttons_functions.php:245
+msgid "Publish"
+msgstr ""
+
+#: includes/pages/page_scene.php:179
+msgid "Quick scene description"
+msgstr ""
+
+#: includes/pages/page_scene.php:154
+msgid "Quit without save"
+msgstr ""
+
+#: includes/pages/wtrh_struct_page.php:12
+msgid "Quit without save?"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:371
+msgid "Re-edit"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_community_functions.php:185
+#: modules/communities/includes/functions/whc_community_functions.php:225
+#: modules/communities/includes/widgets/community_shortcodes.php:105
+#: modules/communities/includes/widgets/community_shortcodes.php:112
+msgid "Read more"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:70
+#: includes/pages/page_settings_tab2.php:73
+msgid "Read more Label"
+msgstr ""
+
+#: includes/pages/page_users.php:55
+msgid "Readers"
+msgstr ""
+
+#: includes/functions/book_functions.php:327
+#: includes/functions/book_functions.php:456
+msgid "Readers reviews"
+msgstr ""
+
+#: includes/functions/book_functions.php:14
+msgid "Registered readers"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:42
+msgid "Remove this cover"
+msgstr ""
+
+#: includes/functions/book_functions.php:106
+#: includes/functions/book_functions.php:353
+#: includes/functions/book_functions.php:790
+#: includes/pages/page_book_tab1.php:223 includes/pages/page_newbook.php:62
+#: includes/pages/page_print.php:39
+#: modules/communities/includes/functions/whc_community_functions.php:178
+msgid "Resume"
+msgstr ""
+
+#: includes/functions/book_functions.php:652
+#, php-format
+msgid "Resume of %s"
+msgstr ""
+
+#: modules/communities/includes/classes/class_community.php:193
+#: modules/communities/includes/classes/class_community.php:201
+msgid "Review this community information."
+msgstr ""
+
+#: includes/functions/buttons_functions.php:363
+msgid "Rewrite"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:467
+#: includes/pages/page_users_tab1.php:19
+msgid "Role"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:59
+msgid "Romance"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:233
+msgid "Sale URL"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:288
+#: includes/functions/scene_functions.php:85
+#: includes/pages/page_parameters.php:28 includes/pages/page_parameters.php:64
+#: includes/pages/page_settings_tab1.php:20
+#: includes/pages/page_settings_tab1.php:56
+#: includes/pages/page_settings_tab2.php:108
+#: includes/pages/page_settings_tab3.php:112
+#: includes/pages/page_settings_tab3.php:152
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:434
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:558
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:863
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1024
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1105
+#: modules/bookworld/includes/pages/page_bookworld_tab1.php:37
+#: modules/bookworld/includes/pages/page_bookworld_tab2a.php:56
+#: modules/bookworld/includes/pages/page_bookworld_tab2c.php:59
+#: modules/bookworld/includes/pages/page_settings_tab4.php:68
+#: modules/bookworld/includes/pages/page_settings_tab5.php:65
+#: modules/communities/includes/pages/page_communities_tab2.php:57
+#: modules/communities/includes/pages/page_communities_tab3.php:146
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:333
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:444
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:448
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:493
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:497
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:990
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1024
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1057
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1090
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1123
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1156
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1370
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1049
+#: modules/storyboard/includes/pages/page_book_tab3.php:124
+#: modules/storyboard/includes/pages/page_settings_tab4.php:67
+msgid "Save"
+msgstr ""
+
+#: includes/pages/page_newbook.php:77
+msgid "Save & Go to Book"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_newbookworld.php:48
+msgid "Save & Go to Bookworld"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_newbookworld.php:55
+msgid "Save & Go to Characters"
+msgstr ""
+
+#: includes/pages/page_newbook.php:84
+msgid "Save & Go to Scene"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_newbookworld.php:62
+msgid "Save & Go to Stories"
+msgstr ""
+
+#: includes/pages/page_newbook.php:98
+msgid "Save & Go to Storyboard"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:310
+msgid "Save settings"
+msgstr ""
+
+#: includes/functions/scene_functions.php:30
+#: includes/functions/scene_functions.php:73
+#: includes/functions/scene_functions.php:110
+#: includes/functions/scene_functions.php:233
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:539
+msgid "Scene"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:44
+msgid "scene"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:654
+msgid "Scene action"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:668
+msgid "Scene beginning"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:596
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:738
+msgid "Scene characters"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:661
+msgid "Scene conflict"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:484
+msgid "Scene description"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:675
+msgid "Scene ending"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:510
+msgid "Scene id not found"
+msgstr ""
+
+#: includes/pages/page_scene.php:63
+msgid "Scene n&deg;"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:641
+msgid "Scene place"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1441
+#, php-format
+msgid "Scene status unknown : %s"
+msgstr ""
+
+#: includes/pages/page_scene.php:185
+msgid "Scene Text"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:648
+msgid "Scene time"
+msgstr ""
+
+#: includes/pages/page_chapter.php:73
+msgid "Scenes"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:44
+msgid "scenes"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:60
+msgid "Science fiction"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:320
+msgid "Search"
+msgstr ""
+
+#: includes/pages/page_books.php:2 modules/bookworld/page_index.php:1
+#: modules/bookworld/includes/pages/page_bookworlds.php:23
+msgid "Search by title"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:344
+msgid "Search results"
+msgstr ""
+
+#: js/wtrh_jointjs_scenes.js.php:355
+msgid "See/Refresh the graph of scenes"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:535
+msgid "Select a book"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1001
+msgid "Select a character for"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:1094
+msgid "Select a feature"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:1333
+msgid "Select a plot for the scene"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:842
+msgid "Select an arc"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_ajax_functions.php:403
+msgid "Select an author"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:304
+msgid "Select characters"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:962
+msgid "Select one place"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:301
+msgid "Select or Upload your Cover"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab3.php:69
+msgid "Select the books to share"
+msgstr ""
+
+#: includes/functions/book_functions.php:16
+msgid "Selected readers"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:60
+msgid "Self help"
+msgstr ""
+
+#: writer-helper.php:216 includes/pages/page_settings.php:27
+msgid "Settings"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_community_functions.php:25
+msgid "Share"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab3.php:133
+msgid "Share a list of books"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab3.php:77
+msgid "Share a type of books"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab3.php:102
+msgid "Share books from a bookworld"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:61
+msgid "Short story"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:27
+msgid "Shortcode"
+msgstr ""
+
+#: modules/storyboard/js/whs_storyboard_js.php:52
+msgid "Show characters and plot line"
+msgstr ""
+
+#: includes/pages/page_chapter.php:62
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:424
+msgid "Show number"
+msgstr ""
+
+#: includes/pages/page_chapter.php:69
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:432
+msgid "Show title"
+msgstr ""
+
+#: writer-helper.php:195
+msgid "Starting with WH"
+msgstr ""
+
+#: writer-helper.php:207
+msgid "Statistics"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:131
+msgid "Status"
+msgstr ""
+
+#: includes/widgets/author_stats_widgets.php:33
+msgid "Statuses of your books"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_bookworld.php:78
+msgid "Stories"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:50
+msgid "stories"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:50
+msgid "story"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:94
+msgid "Story Arc beats"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:92
+msgid "Story Arc description"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_settings_tab4.php:23
+msgid "Story Arc has been successfuly imported."
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:310
+msgid "Story arc id not set"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:90
+msgid "Story Arc name"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:66
+#, php-format
+msgid "Story arc not found (id: % s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:331
+#, php-format
+msgid "Story arc not found with id %s"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:337
+#, php-format
+msgid "Story arc without beats (id %s)"
+msgstr ""
+
+#: includes/pages/page_settings.php:57
+msgid "Story Arcs"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_settings_tab4.php:36
+msgid "Story arcs"
+msgstr ""
+
+#: modules/bookworld/includes/classes/db_class_story.php:119
+#, php-format
+msgid "Story not found (id: %s)"
+msgstr ""
+
+#: includes/pages/page_book.php:85
+msgid "Storyboard"
+msgstr ""
+
+#: modules/storyboard/includes/classes/db_class_storyboardbeat.php:109
+#, php-format
+msgid "Storyboard beat not found (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_book_tab3.php:21
+msgid "Storyboard has been successfuly imported."
+msgstr ""
+
+#: includes/pages/page_scene.php:91
+msgid "Storyboard line"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:710
+msgid "Storyboard line not found"
+msgstr ""
+
+#: modules/storyboard/includes/classes/db_class_storyboardline.php:215
+#, php-format
+msgid "Storyboard Line not found (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:780
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:810
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:843
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:868
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:893
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:918
+#, php-format
+msgid "Storyboard Line not found with id %s"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:399
+msgid "Storyboard not found"
+msgstr ""
+
+#: modules/storyboard/includes/classes/db_class_storyboard.php:104
+#, php-format
+msgid "Storyboard not found (id: %s)"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:20
+#, php-format
+msgid "Storyboard not found with id %s"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab3.php:4
+msgid "Subcriber communities are all websites on which you display your books"
+msgstr ""
+
+#: includes/pages/page_communities.php:47
+msgid "Subscribers"
+msgstr ""
+
+#: includes/functions/book_functions.php:797 includes/pages/page_print.php:46
+#: includes/widgets/book_widgets.php:130
+msgid "Summary"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:61
+msgid "Suspense"
+msgstr ""
+
+#: includes/pages/page_parameters.php:32 includes/pages/page_parameters.php:68
+#: includes/pages/page_settings_tab1.php:24
+#: includes/pages/page_settings_tab1.php:60
+msgid "Test format"
+msgstr ""
+
+#: includes/functions/plugin_change_functions.php:150
+msgid "Thanks for installing"
+msgstr ""
+
+#: includes/functions/plugin_change_functions.php:44
+msgid "Thanks for updating"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_chapters.php:209
+msgid "The authors for the book."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_books.php:273
+msgid "The authors list for the object."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_bookworlds.php:194
+msgid "The books for the object."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_chapters.php:205
+msgid "The bookworld for the book."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_books.php:269
+msgid "The bookworld name for the object."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_chapters.php:193
+msgid "The cover for the book."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_books.php:265
+msgid "The cover image url for the object."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_bookworlds.php:190
+msgid "The description for the object."
+msgstr ""
+
+#: includes/classes/class_booksettings.php:182
+#: includes/classes/class_chapter.php:435
+#: includes/widgets/book_shortcodes.php:171
+msgid "The End"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_books.php:285
+msgid "The page URL for the object."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_chapters.php:185
+msgid "The publication date for the chapter."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_books.php:277
+msgid "The publication date for the object."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_chapters.php:201
+msgid "The resume for the book."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_books.php:261
+msgid "The resume for the object."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_chapters.php:213
+msgid "The status for the book."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_books.php:281
+msgid "The status for the object."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_chapters.php:189
+msgid "The title for the book."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_chapters.php:181
+msgid "The title for the chapter."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_books.php:253
+#: modules/communities/includes/functions/whc_restapi_bookworlds.php:186
+msgid "The title for the object."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_chapters.php:197
+msgid "The type for the book."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_books.php:257
+msgid "The type for the object."
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_chapters.php:217
+msgid "The URL for the book."
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:356
+msgid "Theme exposed in plotline"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:88
+msgid "This chapter has been trashed"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:90
+msgid "This chapter has not been published yet!"
+msgstr ""
+
+#: modules/communities/includes/classes/class_community.php:209
+msgid "This community does not accept REST request."
+msgstr ""
+
+#: modules/communities/includes/classes/class_community.php:215
+msgid ""
+"This community does not have Writer Helper plugin or Communities module."
+msgstr ""
+
+#: modules/communities/includes/classes/class_community.php:192
+msgid "This community is missing information."
+msgstr ""
+
+#: modules/communities/includes/classes/class_community.php:184
+msgid "This community is not a guest."
+msgstr ""
+
+#: modules/communities/includes/classes/class_community.php:200
+msgid "This community URL does not begin with http:// or https://."
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab3.php:64
+msgid "This key allows your subscriber to demand books on your website"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab2.php:49
+msgid "This key identifies you on your guest website as an authentified user."
+msgstr ""
+
+#: modules/communities/includes/widgets/community_shortcodes.php:20
+#: modules/communities/includes/widgets/community_shortcodes.php:71
+msgid "This shortcode needs at least one parameter (community id or key)"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:19
+msgid "This shortcode needs at least one parameter (id or title)"
+msgstr ""
+
+#: includes/widgets/book_shortcodes.php:63
+msgid "This shortcode needs at least the book id"
+msgstr ""
+
+#: includes/functions/cmn_functions.php:62
+msgid "Thriller"
+msgstr ""
+
+#: includes/pages/page_parameters.php:77 includes/pages/page_parameters.php:78
+#: includes/pages/page_parameters.php:79 includes/pages/page_parameters.php:80
+#: includes/pages/page_settings_tab1.php:69
+#: includes/pages/page_settings_tab1.php:70
+#: includes/pages/page_settings_tab1.php:71
+#: includes/pages/page_settings_tab1.php:72
+msgid "through"
+msgstr ""
+
+#: includes/pages/page_parameters.php:53
+#: includes/pages/page_settings_tab1.php:45
+msgid "Time format"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:52 includes/pages/page_newbook.php:21
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:103
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:132
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:517
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:110
+#: modules/bookworld/includes/pages/page_bookworld_tab1.php:15
+#: modules/bookworld/includes/pages/page_bookworld_tab2a.php:24
+#: modules/bookworld/includes/pages/page_newbookworld.php:22
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:13
+msgid "Title"
+msgstr ""
+
+#: includes/pages/page_parameters.php:39 includes/pages/page_parameters.php:40
+#: includes/pages/page_parameters.php:41 includes/pages/page_parameters.php:44
+#: includes/pages/page_parameters.php:81
+#: includes/pages/page_settings_tab1.php:31
+#: includes/pages/page_settings_tab1.php:32
+#: includes/pages/page_settings_tab1.php:33
+#: includes/pages/page_settings_tab1.php:36
+#: includes/pages/page_settings_tab1.php:73
+msgid "to"
+msgstr ""
+
+#: includes/pages/page_book_tab4.php:16
+#: includes/pages/page_settings_tab2.php:19
+msgid "To display"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab3.php:65
+msgid ""
+"To display your books on your subscriber website, you must give her/him this "
+"key"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab2.php:50
+msgid "To display your guests books, you must ask for their key."
+msgstr ""
+
+#: includes/functions/book_functions.php:121
+#: includes/functions/book_functions.php:131
+msgid "To draft"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:237
+msgid "To Publish"
+msgstr ""
+
+#: includes/functions/book_functions.php:170
+msgid "To publish"
+msgstr ""
+
+#: includes/functions/book_functions.php:163
+msgid "To re-read"
+msgstr ""
+
+#: includes/classes/class_booksettings.php:183
+#: includes/widgets/book_shortcodes.php:192
+msgid "To read more, contact the author"
+msgstr ""
+
+#: includes/functions/book_functions.php:126
+msgid "To rewrite"
+msgstr ""
+
+#: includes/pages/page_newbook.php:31
+#: modules/communities/includes/functions/whc_community_functions.php:22
+msgid "Type"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_settings_tab5.php:17
+msgid "Unable to import archetyp"
+msgstr ""
+
+#: modules/bookworld/includes/pages/page_settings_tab4.php:20
+msgid "Unable to import character arc"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_settings_tab4.php:19
+msgid "Unable to import story arc"
+msgstr ""
+
+#: modules/storyboard/includes/pages/page_book_tab3.php:17
+msgid "Unable to import storyboard"
+msgstr ""
+
+#: modules/communities/includes/functions/whc_restapi_books.php:81
+#: modules/communities/includes/functions/whc_restapi_books.php:108
+#: modules/communities/includes/functions/whc_restapi_books.php:135
+#: modules/communities/includes/functions/whc_restapi_bookworlds.php:59
+#: modules/communities/includes/functions/whc_restapi_bookworlds.php:87
+#: modules/communities/includes/functions/whc_restapi_chapters.php:59
+msgid "Unauthorized user"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:774
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:804
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:839
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:864
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:889
+#: modules/storyboard/includes/functions/whs_ajax_functions.php:914
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:715
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:718
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:721
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:724
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:727
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:730
+msgid "Undefined"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:82
+#: includes/functions/module_download.php:83
+#, php-format
+msgid "Unknown add-on name %s"
+msgstr ""
+
+#: includes/functions/module_download.php:58
+#, php-format
+msgid "Unknown add-on: %s"
+msgstr ""
+
+#: includes/functions/book_functions.php:180
+#: includes/functions/buttons_functions.php:253
+msgid "Unpublish"
+msgstr ""
+
+#: includes/functions/book_functions.php:136
+#: includes/functions/buttons_functions.php:269
+#: includes/functions/buttons_functions.php:393
+msgid "Untrash"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab2.php:13
+msgid "Update the guest below"
+msgstr ""
+
+#: modules/communities/includes/pages/page_communities_tab3.php:20
+msgid "Update the subscriber below"
+msgstr ""
+
+#: includes/pages/page_parameters.php:76
+#: includes/pages/page_settings_tab1.php:68
+msgid "Uppercase Ante meridiem and Post meridiem"
+msgstr ""
+
+#: includes/pages/page_book_tab1.php:303
+msgid "Use this media"
+msgstr ""
+
+#: writer-helper.php:210
+msgid "Users"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:80
+msgid "Users who can see the book preview"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:101
+msgid "Users who can see the bookworld"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:59
+msgid "Users who can see the hidden scenes/chapters"
+msgstr ""
+
+#: includes/pages/page_book_tab5.php:38
+msgid "Users who can see the published book/chapter"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1074
+msgid "Verify the date entered."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1075
+msgid "Verify the statuses of all your chapters."
+msgstr ""
+
+#: includes/functions/ajax_functions.php:1002
+#: includes/functions/ajax_functions.php:1027
+#: includes/functions/ajax_functions.php:1291
+#: includes/functions/ajax_functions.php:1316
+msgid "Verify your WordPress user capabilities."
+msgstr ""
+
+#: includes/pages/page_index.php:5
+msgid ""
+"Welcome to your new aid for writing and publishing books on your WordPress "
+"website"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:468
+#: includes/pages/page_users_tab1.php:20
+msgid "WordPress display name"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:37
+#: includes/widgets/author_stats_widgets.php:47
+msgid "words"
+msgstr ""
+
+#: includes/functions/ajax_functions.php:809
+#: includes/functions/ajax_functions.php:844
+#: includes/functions/ajax_functions.php:894
+#: includes/functions/ajax_functions.php:929
+#: includes/pages/page_book_tab1.php:112 includes/pages/page_book_tab1.php:151
+#, php-format
+msgid "WP User is %s"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_bookworld_functions.php:160
+msgid "WP user name"
+msgstr ""
+
+#: includes/functions/buttons_functions.php:334
+msgid "Write"
+msgstr ""
+
+#. Description of the plugin
+msgid "Write and edit books on your website"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:563
+msgid "Write scene"
+msgstr ""
+
+#: includes/pages/page_index.php:33
+msgid "Write your scenes"
+msgstr ""
+
+#: includes/pages/page_index.php:60
+msgid "Write your scenes, reorder your chapters and scenes."
+msgstr ""
+
+#. Name of the plugin
+msgid "Writer Helper"
+msgstr ""
+
+#. Widget slug.
+#: includes/widgets/author_stats_widgets.php:53
+msgid "Writer Helper - Author statistics"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:182
+msgid "Writer Helper - Book's info"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:254
+msgid "Writer Helper - Book's info when on a chapter page"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:19
+msgid "Writer Helper - Book's summary"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:101
+msgid "Writer Helper - Book's summary when on a chapter page"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:72
+msgid "Writer Helper - Lastest publication"
+msgstr ""
+
+#: includes/widgets/books_widgets.php:19
+msgid "Writer Helper - Library"
+msgstr ""
+
+#: includes/widgets/book_widgets.php:304
+msgid "Writer Helper - Search book field"
+msgstr ""
+
+#: includes/pages/page_settings_tab1.php:84
+msgid "Writer Helper add-ons on your site"
+msgstr ""
+
+#: includes/pages/page_communities.php:23
+msgid "Writer Helper Communities"
+msgstr ""
+
+#: includes/pages/page_users.php:25
+msgid "Writer Helper Users"
+msgstr ""
+
+#: includes/pages/page_users.php:43
+msgid "Writers"
+msgstr ""
+
+#: includes/classes/class_book.php:422
+msgid "Writing file failed"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:29
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:27
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:203
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:157
+msgid "Wrong file contents"
+msgstr ""
+
+#: modules/bookworld/includes/functions/whb_archetyp_functions.php:19
+#: modules/bookworld/includes/functions/whb_characterarc_functions.php:19
+#: modules/storyboard/includes/functions/whs_storyarc_functions.php:195
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:148
+msgid "Wrong file format"
+msgstr ""
+
+#: modules/storyboard/includes/functions/whs_storyboard_functions.php:1004
+msgid "Yes"
+msgstr ""
+
+#: includes/pages/page_bookworlds.php:12 includes/pages/page_book_tab3.php:13
+#: includes/pages/page_communities_tab1.php:9
+#: includes/pages/page_communities_tab2.php:10
+#: includes/pages/page_communities_tab3.php:10
+#: includes/pages/page_settings_tab4.php:10
+#: includes/pages/page_settings_tab4.php:23
+#: includes/pages/page_settings_tab5.php:10 includes/pages/page_stats.php:9
+#: includes/pages/page_todolist.php:9 includes/pages/page_users_tab2.php:9
+#: includes/pages/page_users_tab3.php:9 includes/pages/page_users_tab4.php:9
+msgid "You can purchase it on our website"
+msgstr ""
+
+#: includes/pages/page_bookworlds.php:10
+#: includes/pages/page_settings_tab4.php:21
+#: includes/pages/page_settings_tab5.php:8
+msgid "You do not have the module \"Bookworld\""
+msgstr ""
+
+#: includes/pages/page_communities_tab1.php:7
+#: includes/pages/page_communities_tab2.php:8
+#: includes/pages/page_communities_tab3.php:8
+msgid "You do not have the module \"Communities\""
+msgstr ""
+
+#: includes/pages/page_users_tab4.php:7
+msgid "You do not have the module \"Readers\""
+msgstr ""
+
+#: includes/pages/page_stats.php:7
+msgid "You do not have the module \"Statistics\""
+msgstr ""
+
+#: includes/pages/page_book_tab3.php:11 includes/pages/page_settings_tab4.php:8
+msgid "You do not have the module \"Storyboard\""
+msgstr ""
+
+#: includes/pages/page_todolist.php:7
+msgid "You do not have the module \"To Do List\""
+msgstr ""
+
+#: includes/pages/page_users_tab2.php:7 includes/pages/page_users_tab3.php:7
+msgid "You do not have the module \"Writers & Editors\""
+msgstr ""
+
+#: includes/functions/cmn_functions.php:62
+msgid "Young adult"
+msgstr ""
+
+#: includes/pages/page_index.php:65
+msgid "Your book and/or chapters can be seen on your website."
+msgstr ""
+
+#: includes/pages/page_index.php:66
+msgid "Your book, chapter or scene is out but still recyclable."
+msgstr ""
+
+#: includes/functions/module_download.php:131
+msgid "ZIP file deleted"
+msgstr ""

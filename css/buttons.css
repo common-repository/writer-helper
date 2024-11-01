@@ -1,0 +1,319 @@
+/* ****************************** */
+/*           BUTTONS              */
+/* ****************************** */
+button {
+    font-size: 15px;
+}
+button:disabled {
+    cursor: not-allowed;
+}
+
+.whGoBackButton {
+    margin-top: 50px;
+    clear: both;
+    float: none;
+}
+
+/* ****************************** */
+/*         COMMON BUTTONS         */
+/* ****************************** */
+.wh_button {
+	font-size: 14px;
+	padding: 5px 40px 5px 40px;
+	text-decoration: none;
+	cursor: pointer;
+	border: 1px solid grey;
+	border-radius: 5px;
+/*	background-color: */
+}
+.wh_buttonInactive {
+	font-size: 14px;
+	padding: 5px 40px 5px 40px;
+	text-decoration: none;
+	cursor: pointer;
+	border: 1px solid grey;
+	border-radius: 5px;
+}
+.wh_buttonSmall {
+	font-size: 12px;
+	padding: 5px;
+	width: auto;
+}
+.wh_buttonBlue {
+	color: darkblue;
+	padding: 3px 3px 5px 3px;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.wh_buttonRed {
+	color: red;
+	padding: 3px 3px 5px 3px;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.wh_buttonNoBorder {
+	border: 0;
+	padding: 7px;
+	margin: 0;
+}
+.wh_buttonDashicon {
+	margin: 0 10px 0 10px;
+}
+.wh_buttonDashicon span {
+	padding: 5px;
+	text-decoration: none;
+	cursor: pointer;
+
+	border: 1px solid grey;
+	border-radius: 5px;
+    box-shadow: 3px 3px 2px #888888;
+    background-image: linear-gradient(to bottom right, white, lightgrey);	
+}
+.wh_buttonDashiconDel span {
+	color: red;
+}
+.wh_button:hover, .wh_buttonDashicon span:hover {
+	background-color: white;
+}
+.wh_button:active, , .wh_buttonDashicon span:active {
+	background-color: lightgrey;
+}
+
+.wh_buttonQuestion span {
+	font-size: 230%;
+}
+.wh_buttonQuestion {
+	border: 0;
+	padding: 5px;
+	margin: 0;
+	text-decoration: none;
+	cursor: pointer;
+}
+.wh_buttonPlus {	
+	border: 0;
+	margin: 0 0 0 10px;
+	text-decoration: none;
+	cursor: pointer;
+	color: red;
+}
+
+.wh_buttonEdit {}
+
+.wh_buttonDelete {
+	color: red;
+}
+
+.wh_buttonDeleteX {
+	line-height: 150%;
+	border: 1px solid black;
+	font-weight: bold;
+	color: red;
+	margin: 0;
+	padding: 5px;
+	cursor: pointer;
+}
+.wh_buttonEditPen {
+	border: 1px solid black;
+	padding: 5px 0 3px 0;
+	margin: 0;
+	cursor: pointer;
+}
+
+.wh_buttonAdd {
+	padding: 5px 20px 5px 20px;
+	margin-left: 0;
+	color: red;
+}
+
+.wh_buttonSave{}
+
+.wh_buttonCancel {}
+
+.wh_buttonCBSpan {
+	margin-bottom: 10px;
+	display: inline-block;
+	vertical-align: top;
+	white-space: nowrap;
+}
+.wh_buttonCB {
+	visibility: hidden;
+}
+.wh_buttonCB + label {	
+	border: 1px solid lightgrey;
+	border-radius: 5px;
+	font-style: normal;
+	background-color: whitesmoke;
+	padding: 3px 10px 3px 10px;
+	cursor: pointer;
+} 
+.wh_buttonCB:checked + label {
+	border: 1px solid lightblue;
+	border-radius: 5px;
+	font-style: bold;
+	background-color: azure;
+	padding: 3px 10px 3px 10px;
+	cursor: pointer;
+}
+
+/* ****************************** */
+/*         ACTION BUTTONS         */
+/* ****************************** */
+.whActionButtons{
+	margin: 0;
+	padding: 0;
+}
+.whActionButtons div{
+	display: inline-block;
+	vertical-align: top;
+	margin: 0;
+	padding: 0;
+}
+
+.whActionButton{
+	display: inline-block;
+	text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+	width: 100%;
+    height: 20px;
+	padding: 0 5px 0 5px;
+	margin: 0 5px 0 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 5px 5px 4px #888888;
+    background-image: linear-gradient(to bottom right, white, lightblue);
+}
+.whActionButtonInline{
+    width: auto;
+	height: auto;
+	padding: 10px 15px 10px 15px;
+}
+.whActionButtonLarge{
+    min-width: auto;
+	width: 250px;
+	height: auto;
+	padding: 10px 15px 10px 15px;
+}
+.whActionButtonSmall{
+	width: auto;
+}
+.whActionButtonRed{
+	color: red;
+}
+.whActionButtonGrey{
+    background-image: linear-gradient(to bottom right, white, lightgrey);
+}
+.whActionButtonBold{
+    font-weight: bold;
+}
+
+.whDeleteButton{
+    background-image: linear-gradient(to bottom right, white, salmon);
+}
+
+.whActionButton:disabled{
+    cursor: not-allowed;
+    color: lightgrey;
+}
+.whActionButton:hover{
+    background-image: linear-gradient(to bottom right, lightblue, white);
+}
+.whActionButton:active{
+    background-image: linear-gradient(to bottom right, white, lightsalmon);
+}
+.whChapterButtons{
+    padding: 0;
+	margin: 0;
+}
+.whChapterButtons div, .whActionButtonSceneRow2 div {
+    padding: 0;
+	margin: 0;
+	margin-right: 5px;
+}
+
+.whActionButtonSceneRow1 {
+    margin-left: 25px;
+    width: 100%;
+}
+.whActionButtonSceneRow1 div {
+}
+.whActionButtonSavebook, .whActionButtonSavechapter {
+    margin-bottom: 10px;
+    width: 340px;
+    max-height: 100px;
+    height: 50px;
+}
+
+.whActionButtonSavescene {
+    width: 340px;    
+    height: 50px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.whActionButtonAddScene {
+    width: 340px;    
+    height: 50px;
+}
+
+/* ****************************** */
+/*         GOTO BUTTONS           */
+/* ****************************** */
+.whGotoButtons {
+	margin: 0;
+	padding: 0;
+    width: 100%;
+    display: table;
+    table-layout: auto;
+}
+.whGotoButtonsbook,.whGotoButtonschapter,.whGotoButtonsscene,.whGotoButtonsstoryboard {
+    border-spacing: 10px 0;
+}
+
+.whGotoButton{
+    text-align: center;
+    width: 100%;
+    max-height: 100px;
+    height: 40px;
+    cursor: pointer;
+    border: 1px solid whitesmoke;
+    border-radius: 4px;
+    margin: 5px;
+    box-shadow: 5px 5px 4px #888888;
+    background-image: linear-gradient(to bottom right, white, #D3D3D3);
+}
+.whGotoButton:disabled{
+    cursor: not-allowed;
+    background-image: linear-gradient(to bottom right, white, lightgrey);
+}
+.whGotoButton:hover{
+    border: 1px solid lightgrey;
+}
+.whGotoButton:active{
+    border: 2px solid grey;
+    box-shadow: 5px 5px 2px #888888;
+    transform: translateY(2px);
+}
+.whGotoButton:visited{
+    border: 2px solid black;
+}
+
+.whGotoButton0{
+    cursor: not-allowed;
+}
+
+/* **************************** */
+/*     ALIGN GOTO BUTTONS       */
+/* **************************** */
+
+/* align GOTO buttons vertically */
+.whGotoButtonbooks {
+    width: 90%;
+}
+
+/* align GOTO buttons horizontally */
+.whGotoButtonbook, .whGotoButtonchapter, .whGotoButtonscene, .whGotoButtonstoryboard {
+    display: table-cell;
+    width: 340px;
+}

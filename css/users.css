@@ -1,0 +1,44 @@
+#whAddUserInput {
+	
+}
+
+.whAddUserButton {
+	
+}
+
+#whAddUserListDiv {
+	width: 300px;
+	height: auto;	
+}
+
+
+a.whAddUserOption {
+	display: block;
+	appearance: none;
+	background: white;
+	font-size: 1.2em;
+	width: 100%;
+	padding: 3px;
+	border-radius: 5px;
+	border: 1px solid #CED4DA;
+	cursor: pointer;
+}
+
+.wh_usersList{}
+
+.wh_userInfoHeader {	
+	border: 1px solid blue;
+}
+.wh_userInfoHeader th {	
+	padding: 10px;
+	border: 1px solid black;
+}
+
+.wh_userInfo td {
+	padding: 5px 10px 5px 10px;
+	border: 1px solid black;
+}
+
+.whDeleteUser {
+	
+}

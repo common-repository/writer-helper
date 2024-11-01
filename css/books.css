@@ -1,0 +1,133 @@
+/* CSS Books Component */
+
+ul.whBooksList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+} 
+ul.whBooksList > li {
+    border: 0;
+    margin: 5px 0px 20px 20px;
+	float: left;
+} 
+
+.whNewBookPanel{
+    border: 1px solid lightblue;
+    box-shadow: 5px 5px 4px #888888;
+    border-radius: 5px;
+    margin: 15px 0 15px 15px;
+    padding: 15px;
+	width: auto;
+	cursor: pointer;
+}
+
+.whOneBookPanel{
+    border: 1px solid darkgrey;
+    box-shadow: 5px 5px 4px #888888;
+    border-radius: 5px;
+    padding: 15px 0 15px 15px;
+}
+
+.whOneBookPanel tr td {
+    width: 190px;
+}
+
+.whBookPanelCover{
+    padding: 5px;
+    vertical-align: top;
+	width: 250px;
+}
+
+.whBookPanelInfo {
+    vertical-align: top;
+}
+.whBookPanelInfo td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+	margin: 0;
+}
+.whBookPanelBookTitle {
+    font-weight: bold;
+    font-size: 150%;
+}
+.whBookPanelBookType {}
+.whBookPanelBookAuthors {}
+.whBookPanelAuthorsList li { padding-left: 15px;}
+.whBookPanelBookEditors {}
+.whBookPanelEditorsList li { padding-left: 15px;}
+
+.whShortCode {
+	padding: 10px 5px 15px 5px;
+/*	margin-bottom: 10px;*/
+	text-align: center;
+/*    border: 1px solid grey;
+    border-radius: 4px;*/
+}
+.whShortCode label {
+	font-weight: bold;
+}
+.whWordCount {
+	padding-left: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+.whWordCount label {
+}
+
+.whBookPanelButtonsTable tr td {
+    text-align: center;
+}
+
+.whBookPanelStatus{
+    padding: 0 0 0 5px;
+	margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.whBookPanelStatusdraft{
+    background-color: brown;
+    color: white;
+}
+
+.whBookPanelStatustoedit{
+    background-color: lightblue;
+}
+
+.whBookPanelStatusediting{
+    background-color: lightsalmon;
+}
+
+.whBookPanelStatusedited{
+    background-color: green;
+    color: white;
+}
+
+.whBookPanelStatustopublish{
+    background-color: greenyellow;
+}
+
+.whBookPanelStatuspublished{
+    background-color: gold;
+}
+
+.whBookPanelStatustrashed{
+    background-color: lightgray;
+}
+
+.whBookPanelResume{
+
+}
+
+.whBookPanelButton{
+    width: 90%;
+    cursor: pointer;
+    border: none;
+    height: 25px;
+    border-radius: 4px;
+    margin-right: 4px;
+    box-shadow: 5px 5px 4px #888888;
+    background-image: linear-gradient(to bottom right, lightgrey, white);
+    /*background-color: #F0F5FF;*/
+}

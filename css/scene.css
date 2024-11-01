@@ -1,0 +1,179 @@
+.whSceneTable {
+	width: 100%;
+	vertical-align: top;
+}
+.whSideStoryboardTd {
+	width: 100px;
+	
+	vertical-align: top;
+}
+
+.whSideStoryboard {
+	margin-right: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+	border: 1px solid black;
+	width: 100px;
+	height: 100%;
+	float: left;
+}
+.whStoryboardInfo {
+	font-size: 130%;
+}
+.whSceneStoryboard {
+	width: 60%;
+	height: 100%;
+	margin-left: 10px;
+	padding-left: 10px;
+	border-collapse: collapse;
+}
+.whSceneStoryboard td {
+	font-size: 130%;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	padding: 5px;
+}
+.whSSchap1 {
+	text-align: center;
+	border-top: 1px solid black;
+}
+.whSSchap0 {
+	border-top: 0;
+}
+.whSSbeat1 {
+	border-top: 1px solid black;
+}
+.whSSbeat0 {
+	border-top: 0;
+}
+.whSSlineNoScene {
+	text-align: center;
+}
+.whSSline1 {
+	text-align: center;
+	border: 1px solid black;
+    border-radius: 50%;
+}
+.whSSline0 {
+	border: 1px solid black;
+    border-radius: 50%;
+	cursor: pointer;
+}
+.whSSlast {
+	border-bottom: 1px solid black;
+}
+
+/*
+ * Storyboard Line
+ */
+.wh_scene_storyboarline {
+	width: 80%;
+	margin-bottom: 20px;
+	border-collapse: collapse;
+}
+.wh_scene_storyboarline td {
+	border: 1px solid grey;
+}
+.wh_scene_storyboarline td {
+	padding: 5px;
+}
+.wh_scene_storyboarline span {
+	display: inline-block;
+	vertical-align: top;
+}
+.wh_StoryboardLineButton_td {
+	border: 0;
+	width: 50px;
+}
+.wh_StoryboardLineButton {
+	font-size: 400%;
+	text-decoration: none;
+}
+.wh_buttonEditPenLine {
+	margin: 2px 0 0 2px;
+	padding: 2px 5px;
+	width: auto;
+	cursor: pointer;
+}
+
+/*
+ * Scene
+ */
+.whSceneDesc {
+    display: block;
+	margin-left: 10px;
+}
+.whSceneDesc label {
+    display: block;
+	width: 100%;
+	margin-bottom: 5px;
+    font-size: 120%;
+}
+.whSceneDesc textarea{
+    width: 100%;
+}
+.whSceneText {
+    display: block;
+	margin-left: 10px;
+}
+.whSceneText label {
+    display: block;
+	width: 70%;
+	margin-bottom: 5px;
+    font-size: 120%;
+}
+.whSceneText textarea, #wp-whSceneText-wrap{
+	
+}
+.whSceneGameBook {
+    display: block;
+	margin-left: 15px;
+}
+.whSceneGameBook label {
+	margin-bottom: 5px;
+    font-size: 120%;
+}
+.whBookSceneLinks {}
+.whLinkedScene{
+	width: 100%;
+}
+.whLinkedScene label{
+	width: 110px;
+}
+.whLinkedScene, .whLinkedScene td{
+	padding: 0;
+	margin: 0;
+}
+.whLinkedSceneLabel{}
+.whLinkSceneNumber {}
+.whLinkSceneTitle{
+	width: auto;
+}
+.whLinkSceneDesc{
+	width: 500px;
+	margin: 5px 0 10px 0;
+}
+.whNewLinkedScene {
+	width: 500px;
+	margin: 5px 0 0 0;
+}
+
+@media screen and (max-width: 800px) {
+	.whSideStoryboard {
+		float: none;
+		margin-bottom: 20px;
+	}
+	.whSceneDesc textarea{
+		width: 500px;
+	}
+	.whSceneText textarea{
+		width: 500px;
+	}
+}
+
+.whSceneEditingLabel {
+	display: block;
+	width: 100%;
+    font-size: 120%;
+	text-align: center;
+}

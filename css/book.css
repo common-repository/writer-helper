@@ -1,0 +1,460 @@
+/*
+    Book Page Style
+*/
+div, table tr td {
+    width: auto;
+}
+
+/* **************************** */
+/*         TITLE             */
+/* **************************** */
+.whBookTitle {
+
+}
+.whBookStatus{
+    display: inline;
+    margin-left: 10px;
+    padding: 0 15px 0 15px;
+    font-size: 70%;
+}
+
+.whBookBlock1 {
+    width: 100%;
+}
+.whBookBlock1_table {
+    width: 100%;
+}
+.whBookBlock1_left {
+	width: 30%
+}
+
+/* **************************** */
+/*         COVER               */
+/* **************************** */
+.whBookCover {
+/*    position: relative;*/
+/*    float: left;
+    width: 30%;*/
+	width: 100%;
+    margin-right: 10px;
+}
+.whBookCover img {
+    width: 100%;
+}
+
+
+/* **************************** */
+/*         INFOS               */
+/* **************************** */
+.whBookInfo {
+    margin-left: 20px;
+}
+.whBookInfo div {
+    margin-bottom: 10px;
+}
+
+.whBookTitleInput label {
+	display: block;
+	font-size: 150%;
+	margin-bottom: 5px;
+}
+.whBookTitleInput input {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 120%;
+	width: 250px;
+}
+
+.whBookBookType label {
+	display: block;
+	font-size: 150%;
+	margin-bottom: 5px;
+}
+.whBookBookType select {
+    font-style: italic;
+    font-size: 120%;
+}
+.whBookGameBook label {
+	display: inline;
+	font-size: 150%;
+	margin-bottom: 5px;
+	margin-right: 10px;
+}
+.whBookGameBookCheckbox {
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+  margin: 10px;
+}
+#whAuthorNameDiv, #whEditorNameDiv, #whBookPublicationDateDiv {
+	display: none;
+}
+#whBookAuthor, #whBookEditor, #whDisplayedPDate {
+    font-size: 120%;
+}
+#whBookAuthor, #whBookEditor, #whBookPublicationDate {
+    padding-top: 5px;
+}
+.whBookAuthors label, .whBookEditors label, #whBookPubDateDiv {
+    font-size: 150%;
+	margin-bottom: 5px;
+}
+.whBookAuthors button, .whBookEditors button, .whBookPubDateDiv button{
+    font-size: 90%;
+	margin-left: 10px;
+}
+.whBookAuthor, .whBookEditor {
+	padding: 0;
+	margin-left: 15px;
+	margin-top: 5px;
+	margin-bottom: 0;
+}
+.whBookAuthor span, .whBookEditor span {
+	display: inline-block;
+	vertical-align: center;
+}
+.whBookDateFormat {
+	font-size: 100%;
+}
+#whBookPublicationDate { display:block;}
+#whBookPublicationDateDiv { display:none;}
+
+.whBookResume {
+    clear: both;
+    width: 80%;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.whBookResume label {
+    font-size: 140%;
+	padding: 10px 0 10px 0;
+	margin-bottom: 5px;
+}
+.whBookResume textarea {
+    width: 80%;
+    height: 150px;
+}
+
+.whBookUrls input {
+    width: 100%;	
+}
+
+/* **************************** */
+/*      CHAPTERS & SCENES       */
+/* **************************** */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.whBookChapters {
+    width: 920px;
+    vertical-align: middle;
+}
+
+label.whBookChapters  {
+    padding-top: 0px;
+    font-size: 170%;
+}
+.whChapterLine {
+	margin-top: 20px;
+}
+.whBookChapter {
+    margin-top: 20px;
+	border-top: 1px solid gray;
+}
+.whBookChapterInfos {
+    width: 100%;
+    padding: 10px;
+}
+.whBookChapterInfos div {
+    display: inline-block;
+	vertical-align: top;
+    padding: 0 10px;
+}
+
+.whBookChapterInfos label {
+    font-size: 130%;
+}
+.whBookChapterLabel  {
+    width: auto;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.whBookChapterLabel span {
+    font-size: 130%;
+	}
+	
+div.whBookChapterNumber {
+    font-size: 130%;
+    width: 4%;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+}
+.whBookChapterTitle {
+    width: 25%;
+}
+.whBookChapterStatus {
+	margin: 0;
+    width: 70px;
+    text-align: center;
+}
+.whBookChapterButtons {
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+.whBookChapterButtons div {
+	margin: 0;
+	padding: 0;
+}
+
+/*  Scenes */
+.whBookChapterScenes {
+    border: 1px solid grey;
+    border-radius: 4px;
+    background-color: rgb(240,240,240) ;
+    width: 90%;
+    height: auto;
+    padding: 5px;
+    margin: 0 0 10px 35px;
+}
+.whBookChapterScenes div {
+    display: inline-block;
+	vertical-align: top;
+}
+.whBookSceneLabel {
+    font-size: 120%;
+    width: auto;
+}
+.whBookSceneLabel label {
+	padding: 0 5px 0 5px;
+}
+.whBookSceneNumber {
+    font-size: 120%;
+    width: 5%;
+	text-align: left;
+	padding: 2px 5px 0 5px;
+}
+.whBookSceneTitle {
+    width: 35%;
+}
+.whBookSceneStatus {
+    width: 90px;
+    text-align: center;
+}
+.whBookSceneButtons {
+    display: inline-block;
+    float: right;
+}
+
+.whPageBreak{page-break-after:always;}
+
+
+/* **************************** */
+/*      CLASSES FOR PRINTING    */
+/* **************************** */
+.whPrintBook_Cover{
+	text-align: center;
+}
+.whPrintBook_Cover img{
+	width: 750px;
+}
+.whPrintBook_CoverTitle{
+	font-weight: bold;
+	font-size: 250%;
+}
+.whPrintBook_CoverAuthor{}
+.whPrintBook_ResumeTitle{
+	margin-top: 20px;
+	font-weight: bold;
+}
+.whPrintBook_SummaryTitle{
+	margin-top: 20px;
+	font-weight: bold;
+}
+.whPrintBook_SummaryList{}
+.whPrintBook_ChapterTitle{
+	margin-top: 20px;
+	font-weight: bold;
+}
+
+
+/* **************************** */
+/*      CLASSES FOR WIDGETS     */
+/* **************************** */
+.whwBookSummaryDiv{
+	border: 1px solid black;
+    border-radius: 4px;
+	padding: 5px;
+	margin: 15px 0 15px 0;
+}
+.whwBookSummaryTitle{
+	font-weight: bold;
+	text-decoration: underline;
+	display: block;
+	margin-bottom: 5px;
+}
+.whwBookSummary{
+	list-style-type: none;
+}
+.whwBookSummary li{
+	padding-left: 10px;
+}
+.whChapterSummary {
+	
+}
+.whChapterSummaryInactive {
+	color: darkgrey;
+}
+.whwComingSoon{
+	font-style: italic;
+}
+.whDisplayedChapter{
+	font-weight: bold;
+}
+
+.whwBookInfoDiv{
+	border: 1px solid black;
+    border-radius: 4px;
+	padding: 5px;
+	margin: 15px 0 15px 0;
+}
+.whwBookInfoTitle{
+	font-weight: bold;
+	display: block;
+}
+.whwBookInfoCover{
+	width: 150px;
+}
+.whwBookInfoList{
+	list-style-type: none;
+}
+
+.whwSearchBookField{}
+.whwSearchBookButton{}
+.whwSearchResult{}
+.whwSearchResult label{
+	font-weight: bold;
+}
+.whwBooksList {
+	list-style-type: disc;
+}
+.whwBooksList li{
+	padding-left: 20px;
+}
+.whwBookType {
+	font-style: italic;
+}
+
+.whwLibraryDiv{}
+.whwLibraryLabel{
+	font-weight: bold;
+}
+.whwLibraryList{
+	list-style-position: inside;
+}
+.whwLibraryList li{
+	padding-left: 10px;
+}
+
+.whwLastestPubliDiv{}
+.whwLastestPubliTitle{
+	font-weight: bold;
+}
+.whwLastestPubliList{}
+.whwLastestPubliList li{
+	padding-left: 15px;
+}
+
+/* **************************** */
+/*    CLASSES FOR SHORTCODES    */
+/* **************************** */
+.whsBookPanelDiv{}
+.whsBookPanelDiv ul{
+	list-style-type: none;
+}
+.whsBookCover{
+	width: 300px;
+	float: left;
+	margin-right: 20px;
+}
+.whsBookCover img{}
+.whsBookDiv{
+	padding-top: 10px;
+	margin-left: 20px;
+}
+.whsBook, .whsBooksList ul {
+	list-style-type: none;
+}
+.whsBookTitle{
+	font-size: 150%;
+	font-weight: bold;
+}
+.whsBookType{
+	font-style: italic;
+}
+.whsBookIsbn{}
+.whsBookAuthors{}
+.whsBookAuthors li{
+	padding-left: 20px;
+	list-style-type: none;
+}
+.whsResume {
+	font-weight: bold;
+}
+
+.whsBookChapterTitle{}
+.whsSceneText{}
+.whsSceneBetweenText{
+	margin: 5px 0 5px 0;
+	text-align: center;
+	font-size: 100%;
+	font-weight: bold;
+}
+
+.whsChaptersButtons{
+	width: 80%;
+	text-align: center;
+	margin-top: 30px;
+}
+.whsChaptersButtons div{
+	display: inline-block;
+	padding: 10px;
+}
+.whsPreviousChapterButton{
+	border: 1px solid black;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.whsNoPreviousChapter {
+	border: 0;
+}
+.whsNextChapterButton{
+/*	float: right;*/
+	margin-left: 20px;
+	border: 1px solid black;
+}
+.whsTheEnd{
+	width: 100%;
+	text-align: center;
+	display: block;
+    font-size: 200%;
+	font-style: italic;
+}
+.whsNoNextChapter{
+	font-style: italic;
+}
+
+.whsBooksDiv{}
+.whsBooksList{
+	float: clear;
+}
+.whsBooksList li{
+	padding-left: 15px;
+}
+.whsBookInfo{}

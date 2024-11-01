@@ -1,0 +1,12 @@
+category:bookType,1,Roman,,0
+category:bookType,2,Romance,,0
+category:bookType,3,SF,,0
+category:bookType,4,Chick-Lit,,0
+category:exportBookInfo,1,title,,0
+category:exportBookInfo,2,bookworld,,0
+category:exportBookInfo,3,Author,,0
+category:exportBookInfo,4,type,,0
+category:exportBookInfo,5,Editor,,0
+category:exportBookInfo,6,resume,,0
+category:dateFormat,1,d-m-Y,,0
+category:timeFormat,1,H:i,,0

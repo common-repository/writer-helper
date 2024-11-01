@@ -1,0 +1,228 @@
+/* Styles */
+label {
+	cursor: text;
+}
+table {
+	border-collapse: collapse;
+}
+table, th, td {
+	vertical-align: top;
+}
+
+th, td{
+	padding: 10px;
+}
+
+/* Change wpfooter */
+#wpfooter {
+	display: none;
+}
+
+.wtrh_page {
+	z-index: 100;
+}
+
+/* Wait Div */
+#blanket {
+	background-color:#111;
+	opacity: 0.65;
+	*background:none;
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	z-index: 9001;
+}
+
+#wtrh_wait_div {
+	position:fixed;
+	top: 20%;
+	width:200px;
+	height:200px;
+	z-index: 9002;
+	padding: 10px;
+}
+#wh_popupDiv {
+	position:fixed;
+	top: 20%;
+	
+	background-color: white;
+	width: auto;
+	height: auto;
+	z-index: 9003;
+	padding: 10px;
+}
+
+.whZero {
+	margin: 0;
+	padding: 0;
+}
+
+
+/* ****************************** */
+/*           BUTTONS              */
+/* ****************************** */
+button {
+    font-size: 15px;
+}
+button:disabled {
+    cursor: not-allowed;
+}
+
+.whGoBackButton {
+    margin-top: 50px;
+    clear: both;
+    float: none;
+}
+
+
+/* ****************************** */
+/*           FORMS               */
+/* ****************************** */
+
+.whLabel {
+	font-size: 15px;
+}
+.whInput {
+	width: 350px;
+	font-size: 15px;
+}
+.whSelect {
+	width: 200px;
+}
+.whList li {
+	margin-left: 30px;
+	list-style-type: circle;
+}
+
+/* ****************************** */
+/*             TABS               */
+/* ****************************** */
+.wtr_tabs {
+	display:inline-block;
+    margin: 0;
+	padding:3px;
+    border:1px solid black;
+    cursor:pointer;
+}
+
+.wtr_tab {
+	display:inline-block;
+    background:#dddddd;
+    border-bottom:1px solid black;
+    margin: 0;
+	padding:4px;
+	padding-left: 20px;
+	width: 15%;
+	
+	font: italic 16px/30px Arial, serif;
+	cursor: pointer;
+}
+
+.wtr_tab_selected {
+	display:inline-block;
+
+    border:1px solid black;
+    border-bottom:0px solid black;
+    margin: 0;
+    padding:4px;
+	padding-left: 20px;
+	width: 15%;
+	
+	font: bold 16px/30px Arial, serif;
+	cursor: pointer;
+}
+
+/* ****************************** */
+/*           OTHERS               */
+/* ****************************** */
+
+.whQuestionMark {
+	display: inline;
+	font-size: 28px;
+	padding: 0;
+	margin: 0;
+	cursor: help;
+}
+.whHelp {
+	display: none;
+}
+.whHandler {
+/*	display: inline;*/
+	width: 20px;
+	float: left;
+	font-size: 20px;
+/*	padding: 0 5px 0 5px;*/
+	cursor: grab;
+	margin-right: 5px;
+}
+.whGameBook {
+/*	display: inline;*/
+	width: 30px;
+	font-size: 30px;
+}
+.whGameBookBig {
+/*	display: inline;*/
+	vertical-align: -10px;
+	width: 40px;
+	font-size: 40px;
+	margin: 0 0 0 10px;
+	padding: 0;
+}
+.whHandlerNull {
+/*	display: inline;*/
+	width: 20px;
+	float: left;
+	font-size: 20px;
+/*	padding: 0 5px 0 5px;*/
+	cursor: default;
+	margin-right: 5px;
+}
+.inBetween {
+	width:inherit;
+	margin: 5px;
+}
+.inBetween div {
+	width:inherit;
+}
+.whDivMsg {
+	font-style: italic;
+	font-weight: bold;
+	margin: 10px 0 20px 10px;
+}
+.whDivA {
+	cursor: pointer;
+	margin: 8px 0 8px 0;
+}
+
+
+/* ****************************** */
+/*           LINKS                */
+/* ****************************** */
+
+.whLink {
+	margin: 10px 0 10px 0;
+	text-align: center;
+}
+.whLinkbooks {
+	width: 100%;
+	text-align: center;
+}
+
+/* ****************************** */
+/*        WH PARAMETERS           */
+/* ****************************** */
+
+.whCategoriesTitle, .whBookTypesTitle {
+	font-size: 20px;
+	border-bottom: 1px solid black;
+}
+.whCategoryInput {}
+.whCategoryButton {}
+.whTestFormat {
+	border: 1px solid black;
+	width: 30px;
+	padding: 2px;
+	margin: 0;
+}
+

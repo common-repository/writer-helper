@@ -1,0 +1,49 @@
+.whChapterTitle {
+    font-size: 150%;
+    margin: 15px 0 15px 0;
+}
+.whChapterShowN, .whChapterShowTitle {
+	margin-left: 40px;
+}
+
+.whChapterScenes {
+    font-size: 150%;
+    margin: 15px 0 30px 0;
+}
+.whChapterScenesList {
+	margin-top: 20px;
+}
+.whScenesList {
+    width: 920px;
+    margin: 10px 0 0 15px;
+
+}
+.whChapterScene {
+    border: 1px solid grey;
+    border-radius: 4px;
+    background-color: rgb(240,240,240) ;
+    width: 100%;
+    height: 30px;
+    margin: 5px;
+    padding: 5px;
+}
+.whChapterScene div {
+    vertical-align: middle;
+}
+
+.whChapterSceneNumber {
+    font-size: 120%;
+    padding-left: 10px;
+}
+.whChapterSceneDesc {
+}
+.whChapterSceneStatus {
+    padding: 2px 5px 5px 5px;
+    margin-left: 20px;
+	width: 90px;
+    text-align: center;
+}
+.whChapterSceneButtons {
+    display: table-cell;
+    float: right;
+}

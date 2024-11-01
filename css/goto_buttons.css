@@ -1,0 +1,61 @@
+
+/* ****************************** */
+/*         GOTO BUTTONS           */
+/* ****************************** */
+.whGotoButtons {
+	margin: 0;
+	padding: 0;
+    width: 100%;
+    display: table;
+    table-layout: auto;
+}
+.whGotoButtonsbook,.whGotoButtonschapter,.whGotoButtonsscene,.whGotoButtonsstoryboard {
+    border-spacing: 10px 0;
+}
+
+.whGotoButton{
+    text-align: center;
+    width: 100%;
+    max-height: 100px;
+    height: 40px;
+    cursor: pointer;
+    border: 1px solid whitesmoke;
+    border-radius: 4px;
+    margin: 5px;
+    box-shadow: 5px 5px 4px #888888;
+    background-image: linear-gradient(to bottom right, white, #D3D3D3);
+}
+.whGotoButton:disabled{
+    cursor: not-allowed;
+    background-image: linear-gradient(to bottom right, white, lightgrey);
+}
+.whGotoButton:hover{
+    border: 1px solid lightgrey;
+}
+.whGotoButton:active{
+    border: 2px solid grey;
+    box-shadow: 5px 5px 2px #888888;
+    transform: translateY(2px);
+}
+.whGotoButton:visited{
+    border: 2px solid black;
+}
+
+.whGotoButton0{
+    cursor: not-allowed;
+}
+
+/* **************************** */
+/*     ALIGN GOTO BUTTONS       */
+/* **************************** */
+
+/* align GOTO buttons vertically */
+.whGotoButtonbooks {
+    width: 90%;
+}
+
+/* align GOTO buttons horizontally */
+.whGotoButtonbook, .whGotoButtonchapter, .whGotoButtonscene, .whGotoButtonstoryboard {
+    display: table-cell;
+    width: 340px;
+}
